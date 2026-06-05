@@ -293,12 +293,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12_Papers/Attention Is All You Need.md",
+                "file": "99_Dashboard/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Attention Is All You Need"
+              "title": "Home"
             }
           }
         ],
@@ -496,14 +496,14 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "3a7c9ec5185534cf",
+  "active": "55992c8f42e36116",
   "lastOpenFiles": [
+    "12_Papers/Attention Is All You Need.md",
     "12_Papers/Megatron-LM.md",
     "12_Papers/LLaMA.md",
     "12_Papers/FlashAttention.md",
     "12_Papers/Chinchilla.md",
     "12_Papers/BERT.md",
-    "12_Papers/Attention Is All You Need.md",
     "08_LLM_Systems/Inference Optimization.md",
     "08_LLM_Systems/RAG.md",
     "08_LLM_Systems/Vector Databases.md",
