@@ -2,13 +2,13 @@
 
 ## Core Domains
 
-### 04 Distributed Systems
+### Distributed Systems
 ```dataview
 LIST  
 FROM "04_Distributed_Systems"  
 SORT file.name asc
 ```
-### 03 Databases
+### Databases
 ```dataview
 LIST FROM "03_Databases"  
 SORT file.name ASC
