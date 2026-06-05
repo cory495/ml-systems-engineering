@@ -23,7 +23,6 @@ SORT file.name ASC
 LIST FROM "08_LLM_Systems"
 SORT file.name ASC
 ```
-
 ## Notes
 ### Recently Updated Notes
 ```dataview
@@ -54,5 +53,15 @@ SORT file.mtime DESC
 ## Projects
 ```dataview
 LIST FROM "13_Projects"
+SORT file.name ASC
+```
+## Architecture
+```dataview
+LIST FROM "10_Architecture"
+SORT file.name ASC
+```
+## Systems Design
+```dataview
+LIST FROM "11_System_Design"
 SORT file.name ASC
 ```
