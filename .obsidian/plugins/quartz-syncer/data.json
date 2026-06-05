@@ -5,11 +5,11 @@
     "corsProxyUrl": "",
     "auth": {
       "type": "basic",
-      "username": ""
+      "username": "cory495"
     },
     "providerHint": "github"
   },
-  "vaultPath": "/",
+  "vaultPath": "_publish/",
   "contentFolder": "content",
   "publishFrontmatterKey": "publish",
   "allNotesPublishableByDefault": false,
