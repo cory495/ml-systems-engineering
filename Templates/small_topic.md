@@ -31,7 +31,7 @@ Date: <% tp.date.now("YYYY-MM-DD") %>
 ## 7. Related Concepts
 
 - [[ ]]
-    
+
 
 ---
 
