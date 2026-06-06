@@ -442,24 +442,215 @@
             }
           },
           {
-            "id": "acadc98d7ffade8a",
+            "id": "77fb04bdaa146de8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "02_Systems/Data Systems.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled 1"
+              "icon": "lucide-file",
+              "title": "Data Systems"
+            }
+          },
+          {
+            "id": "37932f76782e4a5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Reliability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reliability"
+            }
+          },
+          {
+            "id": "0571f47656b9a9ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Maintainability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Maintainability"
+            }
+          },
+          {
+            "id": "3c99056899d8e4be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/core_topic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "core_topic"
+            }
+          },
+          {
+            "id": "5ab12dde396b0779",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Reliability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reliability"
+            }
+          },
+          {
+            "id": "5469bbfe490c1b78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Faults.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Faults"
+            }
+          },
+          {
+            "id": "36c6a8253e3455ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Hardware Faults.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hardware Faults"
+            }
+          },
+          {
+            "id": "2ee148f8acd82090",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Software Errors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Software Errors"
+            }
+          },
+          {
+            "id": "eccbe7c8914e4fc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Hardware Faults.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hardware Faults"
+            }
+          },
+          {
+            "id": "091dead0d18cc937",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Faults.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Faults"
+            }
+          },
+          {
+            "id": "03c1fd249b5e986c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Reliability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reliability"
+            }
+          },
+          {
+            "id": "b334b0c5a34a99b1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Juggl"
+            }
+          },
+          {
+            "id": "33c67a6269c81b90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Scalability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scalability"
+            }
+          },
+          {
+            "id": "6e1a8dcc3b647244",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Scalability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scalability"
+            }
+          },
+          {
+            "id": "e72fe48f6542aa93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Simplicity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Simplicity"
             }
           }
         ],
-        "currentTab": 31
+        "currentTab": 45
       }
     ],
     "direction": "vertical"
@@ -653,44 +844,50 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "acadc98d7ffade8a",
+  "active": "e72fe48f6542aa93",
   "lastOpenFiles": [
+    "02_Systems/Evolvability.md",
+    "02_Systems/Simplicity.md",
+    "02_Systems/Operability.md",
+    "Excalidraw/draw_fault_types.md",
+    "Pictures/pic_systems_datasystem_example.png",
+    "Pictures/pic_outlier_example.png",
+    "02_Systems/Maintainability.md",
+    "02_Systems/Load.md",
+    "02_Systems/Performance.md",
+    "02_Systems/Scalability.md",
+    "02_Systems/Software Errors.md",
+    "Pictures/pic_twitter_method_2.png",
+    "Pictures/pic_twitter_SQL.png",
+    "02_Systems/Reliability.md",
+    "02_Systems/Human Errors.md",
+    "02_Systems/Hardware Faults.md",
+    "02_Systems/Faults.md",
+    "02_Systems/Data Systems.md",
+    "Excalidraw/draw_fault_failure.md",
+    "Excalidraw/draw_fault_tolerant_system.md",
+    "Excalidraw",
+    "Templates/small_topic.md",
+    "Templates/core_topic.md",
+    "Templates/system_design.md",
+    "Templates/project.md",
+    "Templates/paper.md",
+    "Untitled",
+    "Pictures/pic_datasystem_ex.png",
+    "99_Dashboard/Home.md",
+    "Pictures",
+    "Pasted image 20260605214551.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "99_Dashboard/Home.md",
     "01_Mathematics/02_Convex_Optimization",
     "01_Mathematics/01_Probability",
     "_publish/test.md",
     "_publish",
     "11_System_Design/Design a Distributed Logging System.md",
     "11_System_Design/Design an LLM Serving System.md",
-    "11_System_Design/Design a Recommendation System.md",
-    "11_System_Design/Design a RAG System.md",
-    "11_System_Design/Design a Feature Store.md",
-    "10_Architecture/vLLM KV Cache Architecture.md",
-    "10_Architecture/PyTorch Distributed Training Stack.md",
-    "10_Architecture/Raft Leader Election Mechanism.md",
-    "10_Architecture/PostgreSQL Query Execution.md",
-    "10_Architecture/Kafka Internals.md",
     "Kafka Internals",
-    "12_Papers/Attention Is All You Need.md",
-    "12_Papers/Megatron-LM.md",
-    "12_Papers/LLaMA.md",
-    "12_Papers/FlashAttention.md",
-    "12_Papers/Chinchilla.md",
-    "12_Papers/BERT.md",
-    "08_LLM_Systems/Inference Optimization.md",
-    "08_LLM_Systems/RAG.md",
-    "08_LLM_Systems/Vector Databases.md",
-    "07_ML_Systems/Feature Store.md",
-    "07_ML_Systems/Training Pipelines.md",
-    "07_ML_Systems/Model Serving.md",
-    "03_Databases/B-Trees.md",
     "99_Dashboard",
     "Templates/core_tem",
-    "Templates",
-    "New folder",
-    "10_Architecture",
-    "14_Interview_Questions"
+    "Templates"
   ]
 }
