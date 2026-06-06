@@ -30,8 +30,8 @@ Systems should be able to grow from 10,000 to 100,000 users, or from 1 million t
 
 ## 7. Related Concepts
 
-- [[ Load]]
-- [[Performance]]
+- down:: [[ Load]]
+- down:: [[Performance]]
 
 ---
 

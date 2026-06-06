@@ -35,7 +35,7 @@ Reliability is achieved there multiple procedures and systems working together.
 More reliability typically involves higher cost.
 ## 7. Related Concepts
 
-[[ Faults]]
+down:: [[Faults]]
 [[Maintainability]]
 [[Scalability]]
 

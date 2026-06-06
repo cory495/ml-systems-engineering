@@ -52,9 +52,9 @@ Where this shows up in industry:
 ---
 
 ## 9. Related Concepts
-[[Maintainability]]
-[[Reliability]]
-[[Scalability]]
+down:: [[Maintainability]]
+down:: [[Reliability]]
+down:: [[Scalability]]
 [[Faults]]
 [[Hardware Faults]]
 [[Software Errors]]

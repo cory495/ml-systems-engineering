@@ -4,529 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bf6fd6b17f21dd14",
+        "id": "885a2bdecb590d31",
         "type": "tabs",
         "children": [
           {
-            "id": "1f0556a93ffa01fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/paper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "paper"
-            }
-          },
-          {
-            "id": "cc7aa99dba8ad2c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99_Dashboard/Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "62d112949bf521e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_Distributed_Systems/Raft.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Raft"
-            }
-          },
-          {
-            "id": "f9524e55518458f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_Distributed_Systems/Consensus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Consensus"
-            }
-          },
-          {
-            "id": "4be1b9d18a46bbc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_Distributed_Systems/Replication.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Replication"
-            }
-          },
-          {
-            "id": "46b75511f87ceacb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_Distributed_Systems/Consensus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Consensus"
-            }
-          },
-          {
-            "id": "2e61056c3f75c2ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Databases/LSM Trees.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LSM Trees"
-            }
-          },
-          {
-            "id": "ec38fe31f78c8527",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Databases/B-Trees.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B-Trees"
-            }
-          },
-          {
-            "id": "bdb52131bdccee53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Databases/B-Trees.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B-Trees"
-            }
-          },
-          {
-            "id": "2ef58fcabb2660a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07_ML_Systems/Feature Store.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Feature Store"
-            }
-          },
-          {
-            "id": "e53641adc60565f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07_ML_Systems/Model Serving.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Model Serving"
-            }
-          },
-          {
-            "id": "55a84eda910e41f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07_ML_Systems/Feature Store.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Feature Store"
-            }
-          },
-          {
-            "id": "f02f311a9886c17a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08_LLM_Systems/RAG.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RAG"
-            }
-          },
-          {
-            "id": "5b0e93c33c3e62fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08_LLM_Systems/Vector Databases.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vector Databases"
-            }
-          },
-          {
-            "id": "d76262175e283c9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08_LLM_Systems/Inference Optimization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inference Optimization"
-            }
-          },
-          {
-            "id": "8b87a7714cf65bfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12_Papers/Attention Is All You Need.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Attention Is All You Need"
-            }
-          },
-          {
-            "id": "c4c71bc2d905aee6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12_Papers/BERT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BERT"
-            }
-          },
-          {
-            "id": "928b8bf867f22c61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12_Papers/Chinchilla.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chinchilla"
-            }
-          },
-          {
-            "id": "6ba9d8436f480801",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12_Papers/FlashAttention.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FlashAttention"
-            }
-          },
-          {
-            "id": "8d080fc48e93ca7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12_Papers/LLaMA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LLaMA"
-            }
-          },
-          {
-            "id": "55992c8f42e36116",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99_Dashboard/Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "41cef3f8f556ab16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_Architecture/Kafka Internals.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kafka Internals"
-            }
-          },
-          {
-            "id": "5e413cb684bc1ef7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_Architecture/PostgreSQL Query Execution.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PostgreSQL Query Execution"
-            }
-          },
-          {
-            "id": "e07eea0cd12247fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_Architecture/Raft Leader Election Mechanism.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Raft Leader Election Mechanism"
-            }
-          },
-          {
-            "id": "6cbad4b6d60d2beb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_Architecture/vLLM KV Cache Architecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "vLLM KV Cache Architecture"
-            }
-          },
-          {
-            "id": "b7b7ac3e60efd4f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99_Dashboard/Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "26f62b33ca5362fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11_System_Design/Design a Feature Store.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Design a Feature Store"
-            }
-          },
-          {
-            "id": "2cfc4bb9d8c78ae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11_System_Design/Design a RAG System.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Design a RAG System"
-            }
-          },
-          {
-            "id": "aaaddce3b0b022ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11_System_Design/Design a Recommendation System.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Design a Recommendation System"
-            }
-          },
-          {
-            "id": "9e52c8f893cdd499",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11_System_Design/Design a Distributed Logging System.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Design a Distributed Logging System"
-            }
-          },
-          {
-            "id": "76a9cf9e2f3c1000",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99_Dashboard/Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "77fb04bdaa146de8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Systems/Data Systems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Data Systems"
-            }
-          },
-          {
-            "id": "37932f76782e4a5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Systems/Reliability.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reliability"
-            }
-          },
-          {
-            "id": "0571f47656b9a9ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Systems/Maintainability.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Maintainability"
-            }
-          },
-          {
-            "id": "3c99056899d8e4be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/core_topic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "core_topic"
-            }
-          },
-          {
-            "id": "5ab12dde396b0779",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Systems/Reliability.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reliability"
-            }
-          },
-          {
-            "id": "5469bbfe490c1b78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Systems/Faults.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Faults"
-            }
-          },
-          {
-            "id": "36c6a8253e3455ee",
+            "id": "0faa734d92fc626a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -537,116 +19,9 @@
               },
               "icon": "lucide-file",
               "title": "Hardware Faults"
-            }
-          },
-          {
-            "id": "2ee148f8acd82090",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Systems/Software Errors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Software Errors"
-            }
-          },
-          {
-            "id": "eccbe7c8914e4fc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Systems/Hardware Faults.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hardware Faults"
-            }
-          },
-          {
-            "id": "091dead0d18cc937",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Systems/Faults.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Faults"
-            }
-          },
-          {
-            "id": "03c1fd249b5e986c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Systems/Reliability.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reliability"
-            }
-          },
-          {
-            "id": "b334b0c5a34a99b1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "juggl_view"
-            }
-          },
-          {
-            "id": "33c67a6269c81b90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Systems/Scalability.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scalability"
-            }
-          },
-          {
-            "id": "6e1a8dcc3b647244",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Systems/Scalability.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scalability"
-            }
-          },
-          {
-            "id": "e72fe48f6542aa93",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 45
+        ]
       }
     ],
     "direction": "vertical"
@@ -816,14 +191,33 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e624890432b337dd",
+            "type": "leaf",
+            "state": {
+              "type": "bc-tree-view",
+              "state": {},
+              "icon": "tree-pine",
+              "title": "Tree view"
+            }
+          },
+          {
+            "id": "71935d8c1052d3f4",
+            "type": "leaf",
+            "state": {
+              "type": "bc-matrix-view",
+              "state": {},
+              "icon": "blinds",
+              "title": "Matrix view"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -841,50 +235,51 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "e72fe48f6542aa93",
+  "active": "0faa734d92fc626a",
   "lastOpenFiles": [
+    "02_Systems/Data Systems.md",
+    "02_Systems/Evolvability.md",
+    "02_Systems/Faults.md",
+    "02_Systems/Hardware Faults.md",
+    "02_Systems/Human Errors.md",
+    "02_Systems/Load.md",
+    "02_Systems/Maintainability.md",
+    "02_Systems/Operability.md",
+    "02_Systems/Performance.md",
     "02_Systems/Reliability.md",
     "02_Systems/Scalability.md",
     "02_Systems/Simplicity.md",
     "02_Systems/Software Errors.md",
-    "02_Systems/Data Systems.md",
-    "02_Systems/Evolvability.md",
-    "02_Systems/Faults.md",
-    "Templates/small_topic.md",
-    "02_Systems/Operability.md",
-    "Excalidraw/draw_fault_types.md",
+    "2026-06-06.md",
+    "Templates/core_topic.md",
+    "99_Dashboard/Home.md",
+    "11_System_Design/Design a Distributed Logging System.md",
+    "11_System_Design/Design a Recommendation System.md",
+    "11_System_Design/Design a RAG System.md",
+    "11_System_Design/Design a Feature Store.md",
+    "10_Architecture/vLLM KV Cache Architecture.md",
+    "10_Architecture/Raft Leader Election Mechanism.md",
+    "10_Architecture/PostgreSQL Query Execution.md",
+    "10_Architecture/Kafka Internals.md",
+    "12_Papers/LLaMA.md",
+    "12_Papers/FlashAttention.md",
+    "Untitled.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
     "Pictures/pic_systems_datasystem_example.png",
     "Pictures/pic_outlier_example.png",
-    "02_Systems/Maintainability.md",
-    "02_Systems/Load.md",
-    "02_Systems/Performance.md",
     "Pictures/pic_twitter_method_2.png",
     "Pictures/pic_twitter_SQL.png",
-    "02_Systems/Human Errors.md",
-    "02_Systems/Hardware Faults.md",
-    "Excalidraw/draw_fault_failure.md",
-    "Excalidraw/draw_fault_tolerant_system.md",
     "Excalidraw",
-    "Templates/core_topic.md",
-    "Templates/system_design.md",
-    "Templates/project.md",
-    "Templates/paper.md",
     "Untitled",
     "Pictures/pic_datasystem_ex.png",
-    "99_Dashboard/Home.md",
     "Pictures",
     "Pasted image 20260605214551.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "01_Mathematics/02_Convex_Optimization",
     "01_Mathematics/01_Probability",
-    "_publish/test.md",
     "_publish",
-    "11_System_Design/Design a Distributed Logging System.md",
-    "11_System_Design/Design an LLM Serving System.md",
-    "Kafka Internals",
-    "99_Dashboard",
-    "Templates/core_tem",
-    "Templates"
+    "Kafka Internals"
   ]
 }

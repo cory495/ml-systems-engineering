@@ -32,8 +32,7 @@ All faults matter because they must be managed in such a way where they do not c
 ---
 - The obvious tradeoff is price.
 ## 7. Related Concepts
-
-- [[ Faults]]
+- [[Faults]]
 - [[Human Errors]]
 - [[Software Errors]]
 

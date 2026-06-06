@@ -40,9 +40,9 @@ Maintainability is achieved by balancing operability, simplicity, and evolvabili
 Maintainability can be costly in both money and time.
 ## 7. Related Concepts
 
-- [[ Operability]]
-- [[Simplicity]]
-- [[Evolvability]]
+- down:: [[ Operability]]
+- down:: [[Simplicity]]
+- down:: [[Evolvability]]
 ---
 
 ## 8. Summary

@@ -247,7 +247,7 @@
           "prevs"
         ],
         "lock_view": false,
-        "lock_path": ""
+        "lock_path": "02_Systems/Hardware Faults.md"
       },
       "tree": {
         "collapse": false,
@@ -255,7 +255,7 @@
         "merge_fields": false,
         "default_depth": 5,
         "lock_view": false,
-        "lock_path": "",
+        "lock_path": "02_Systems/Hardware Faults.md",
         "field_group_labels": [
           "ups",
           "downs"

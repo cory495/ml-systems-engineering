@@ -31,10 +31,9 @@ Faults are impossible to reduce to zero. Thus, faults are important to acknowled
 - Preventing faults typically have some cost related to them. This can be from employing more humans to utilizing more hardware.
 ## 7. Related Concepts
 
-- [[Hardware Faults ]]
-- [[Software Errors]]
-- [[Human Errors]]
-- 
+- down:: [[Hardware Faults ]]
+- down:: [[Software Errors]]
+- down:: [[Human Errors]]
 ---
 ## 8. Summary
 Faults are errors caused by hardware, software, or humans that mess up one component of a data system. Faults are not the same thing as failures.
