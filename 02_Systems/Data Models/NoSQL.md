@@ -30,8 +30,6 @@ Any non-relational data model is considered to be NoSQL
 Moving away from SQL to NoSQL can give up the pros of SQL, like high data integrity.
 ## 6. Related Concepts
 
--down::  [[Object-Relational Mismatch]]
-
 
 ---
 
