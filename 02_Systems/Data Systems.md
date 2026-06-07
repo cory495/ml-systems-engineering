@@ -5,7 +5,7 @@ Date: 2026-06-05
 ---
 ![[pic_systems_datasystem_example.png]]
 ## 1. Problem
-Data systems solve the problem of storing, organizing, processing, and analyzing large amounts of data. Three main problems data systems solve are [[reliability]], [[scalability]], and [[maintainability]].
+Data systems solve the problem of storing, organizing, processing, and analyzing large amounts of data. Three main problems data systems solve are [[Reliability]], [[Scalability]], and [[Maintainability]].
 
 ---
 
