@@ -5,7 +5,6 @@ Date: 2026-06-05
 ---
 
 ## 1. Definition
-
 ---
 Performance is typically described by throughput (the total time to run a job on a dataset of a certain size) or response time (the total time between the client's request and the response received).
 ## 2. Why It Matters

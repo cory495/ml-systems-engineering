@@ -13,15 +13,296 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Systems/Software Errors.md",
+                "file": "02_Systems/Faults.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software Errors"
+              "title": "Faults"
+            }
+          },
+          {
+            "id": "0f07c3476ec102db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Data Models.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Models"
+            }
+          },
+          {
+            "id": "85c5dedce93f0bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Document Models.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Document Models"
+            }
+          },
+          {
+            "id": "e1d99466a54ae12e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Relational Models.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Relational Models"
+            }
+          },
+          {
+            "id": "69637b7ea2abfe04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/NoSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NoSQL"
+            }
+          },
+          {
+            "id": "a334f7430417b19c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Object-Relational Mismatch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Object-Relational Mismatch"
+            }
+          },
+          {
+            "id": "6ca6397e85e22f93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Many-to-One and Many-to-Many Relationships.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Many-to-One and Many-to-Many Relationships"
+            }
+          },
+          {
+            "id": "da3a6b651bce73c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Network Models.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Network Models"
+            }
+          },
+          {
+            "id": "57d5b282d88bcff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Query Languages.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Query Languages"
+            }
+          },
+          {
+            "id": "09ad2705da926991",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Declarative Querying.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Declarative Querying"
+            }
+          },
+          {
+            "id": "3b4421ddd31e0d75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Declarative Querying.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Declarative Querying"
+            }
+          },
+          {
+            "id": "c63ff8c63e8c4801",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Graph-like Data Models.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Graph-like Data Models"
+            }
+          },
+          {
+            "id": "0dee8cc457e525a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Property Graphs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Property Graphs"
+            }
+          },
+          {
+            "id": "6cf25acc38b402be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/The Cypher Query Language.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Cypher Query Language"
+            }
+          },
+          {
+            "id": "8b363fdfd1682bc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Graph Queries in SQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Graph Queries in SQL"
+            }
+          },
+          {
+            "id": "97380ad529bbd55b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Triple-Stores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Triple-Stores"
+            }
+          },
+          {
+            "id": "e199077524f2f53a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/The Semantic Web.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Semantic Web"
+            }
+          },
+          {
+            "id": "4c89b51aae150643",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/The RDF Data Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The RDF Data Model"
+            }
+          },
+          {
+            "id": "485ede6cbd8a2ec7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/The SPARQL Query Language.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The SPARQL Query Language"
+            }
+          },
+          {
+            "id": "23b8a8fe1305fd3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Triple-Stores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Triple-Stores"
+            }
+          },
+          {
+            "id": "7758e1a4384e0567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99_Dashboard/Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
-        ]
+        ],
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -213,7 +494,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -235,51 +516,52 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "0faa734d92fc626a",
+  "active": "7758e1a4384e0567",
   "lastOpenFiles": [
-    "02_Systems/Simplicity.md",
-    "02_Systems/Scalability.md",
-    "02_Systems/Reliability.md",
+    "Pictures/pic_relational_linkedin.png",
+    "Pictures/pic_twitter_method_2.png",
+    "Pictures/pic_tree_linkedin.png",
+    "Pictures/pic_twitter_SQL.png",
+    "02_Systems/Object-Relational Mismatch.md",
+    "02_Systems/NoSQL.md",
+    "02_Systems/Data Models.md",
+    "02_Systems/Data Systems.md",
+    "02_Systems/Maintainability.md",
+    "02_Systems/Many-to-One and Many-to-Many Relationships.md",
+    "02_Systems/MapReduce Querying.md",
+    "02_Systems/Datalog.md",
+    "02_Systems/Triple-Stores.md",
+    "02_Systems/The SPARQL Query Language.md",
+    "02_Systems/The RDF Data Model.md",
+    "02_Systems/The Semantic Web.md",
+    "02_Systems/Graph Queries in SQL.md",
+    "02_Systems/The Cypher Query Language.md",
+    "02_Systems/Property Graphs.md",
+    "02_Systems/Graph-like Data Models.md",
+    "02_Systems/Declarative Querying.md",
+    "02_Systems/Query Languages.md",
+    "02_Systems/Network Models.md",
+    "02_Systems/Relational Models.md",
+    "Untitled",
+    "NoSQL",
     "02_Systems/Performance.md",
-    "02_Systems/Load.md",
-    "02_Systems/Hardware Faults.md",
+    "02_Systems/Document Models.md",
+    "Excalidraw/Drawing 2026-06-07 16.38.55.excalidraw.md",
     "02_Systems/Faults.md",
     "02_Systems/Evolvability.md",
-    "02_Systems/Data Systems.md",
-    "02_Systems/Human Errors.md",
-    "02_Systems/Maintainability.md",
-    "02_Systems/Operability.md",
-    "02_Systems/Software Errors.md",
-    "2026-06-06.md",
-    "Templates/core_topic.md",
-    "99_Dashboard/Home.md",
-    "11_System_Design/Design a Distributed Logging System.md",
-    "11_System_Design/Design a Recommendation System.md",
-    "11_System_Design/Design a RAG System.md",
-    "11_System_Design/Design a Feature Store.md",
-    "10_Architecture/vLLM KV Cache Architecture.md",
-    "10_Architecture/Raft Leader Election Mechanism.md",
-    "10_Architecture/PostgreSQL Query Execution.md",
-    "10_Architecture/Kafka Internals.md",
-    "12_Papers/LLaMA.md",
-    "12_Papers/FlashAttention.md",
+    "Reliable, Scalable, and Maintainable Sysems",
+    "Reliable, Scalable, and Mai",
     "Untitled.base",
     "Untitled 2.base",
     "Untitled 1.base",
     "Pictures/pic_systems_datasystem_example.png",
     "Pictures/pic_outlier_example.png",
-    "Pictures/pic_twitter_method_2.png",
-    "Pictures/pic_twitter_SQL.png",
     "Excalidraw",
-    "Untitled",
     "Pictures/pic_datasystem_ex.png",
     "Pictures",
     "Pasted image 20260605214551.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "01_Mathematics/02_Convex_Optimization",
-    "01_Mathematics/01_Probability",
-    "_publish",
-    "Kafka Internals"
+    "01_Mathematics/02_Convex_Optimization"
   ]
 }
