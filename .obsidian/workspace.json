@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Systems/Hardware Faults.md",
+                "file": "02_Systems/Software Errors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hardware Faults"
+              "title": "Software Errors"
             }
           }
         ]
@@ -198,8 +198,8 @@
             "state": {
               "type": "bc-tree-view",
               "state": {},
-              "icon": "tree-pine",
-              "title": "Tree view"
+              "icon": "lucide-ghost",
+              "title": "bc-tree-view"
             }
           },
           {
@@ -237,18 +237,18 @@
   },
   "active": "0faa734d92fc626a",
   "lastOpenFiles": [
-    "02_Systems/Data Systems.md",
-    "02_Systems/Evolvability.md",
-    "02_Systems/Faults.md",
-    "02_Systems/Hardware Faults.md",
-    "02_Systems/Human Errors.md",
+    "02_Systems/Simplicity.md",
+    "02_Systems/Scalability.md",
+    "02_Systems/Reliability.md",
+    "02_Systems/Performance.md",
     "02_Systems/Load.md",
+    "02_Systems/Hardware Faults.md",
+    "02_Systems/Faults.md",
+    "02_Systems/Evolvability.md",
+    "02_Systems/Data Systems.md",
+    "02_Systems/Human Errors.md",
     "02_Systems/Maintainability.md",
     "02_Systems/Operability.md",
-    "02_Systems/Performance.md",
-    "02_Systems/Reliability.md",
-    "02_Systems/Scalability.md",
-    "02_Systems/Simplicity.md",
     "02_Systems/Software Errors.md",
     "2026-06-06.md",
     "Templates/core_topic.md",
