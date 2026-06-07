@@ -58,6 +58,7 @@ Where this shows up in industry:
 ## 7. Related Concepts
 
 - down:: [[Object-Relational Mismatch]]
+- down:: [[Many-to-One and Many-to-Many Relationships]]
 ---
 
 ## 8. Interview Questions
