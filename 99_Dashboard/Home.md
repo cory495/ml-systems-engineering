@@ -1,9 +1,23 @@
 # ML Systems Dashboard
 
-## References
-[[References]]
 ## Core Domains
 
+### Main Topics
+- down:: [[Mathematics]]
+- down:: [[Systems]]
+- down:: [[Databases]]
+- down:: [[Distributed Systems]]
+- down:: [[Machine Learning]]
+- down:: [[Deep Learning]]
+- down:: [[Machine Learning Systems]]
+- down:: [[LLM Systems]]
+- down:: [[GPU Systems]]
+- down:: [[10_Architecture/Architecture|Architecture]]
+- down:: [[System Design]]
+- down:: [[Papers]]
+- down:: [[Projects]]
+- down:: [[Interview Questions]]
+- down:: [[References]]
 ### Distributed Systems
 ```dataview
 LIST  

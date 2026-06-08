@@ -347,10 +347,14 @@
             "id": "2a70d09b91f7bc4b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "99_Dashboard/Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
         ],
@@ -571,6 +575,11 @@
   },
   "active": "2a70d09b91f7bc4b",
   "lastOpenFiles": [
+    "05_Machine_Learning/Machine Learning.md",
+    "99_Dashboard/Home.md",
+    "11_System_Design/System Design.md",
+    "07_ML_Systems/Machine Learning Systems.md",
+    "README.md",
     "03_Databases/WAL (Write Ahead Log).md",
     "07_ML_Systems/Training Pipelines.md",
     "10_Architecture/Architecture.md",
@@ -587,7 +596,6 @@
     "12_Papers/Attention Is All You Need.md",
     "12_Papers/Reproductions",
     "12_Papers/Notes",
-    "11_System_Design/System Design.md",
     "11_System_Design/Design a Distributed Logging System.md",
     "11_System_Design/Design an LLM Serving System.md",
     "11_System_Design/Design a RAG System.md",
@@ -595,10 +603,6 @@
     "14_Interview_Questions/Interview Questions.md",
     "02_Systems/Systems.md",
     "09_GPU_Systems/GPU Systems.md",
-    "08_LLM_Systems/LLM Systems.md",
-    "07_ML_Systems/Machine Learning Systems.md",
-    "06_Deep_Learning/Deep Learning.md",
-    "05_Machine_Learning/Machine Learning.md",
     "02_Systems/Data Systems",
     "_publish",
     "Templates/Project Templates",
