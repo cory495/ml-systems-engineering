@@ -1,0 +1,6 @@
+[[Attention Is All You Need]]
+[[BERT]]
+[[Chinchilla]]
+[[FlashAttention]]
+[[LLaMA]]
+[[Megatron-LM]]

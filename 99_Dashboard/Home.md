@@ -1,6 +1,7 @@
 # ML Systems Dashboard
-On DDIA Many-to-one and many-to-many relationships
 
+## References
+[[References]]
 ## Core Domains
 
 ### Distributed Systems
@@ -31,20 +32,6 @@ TABLE file.mtime AS "Last Updated"
 FROM ""
 SORT file.mtime DESC
 LIMIT 15
-```
-### In Progress
-```dataview
-LIST
-FROM ""
-WHERE status = "learning"
-SORT file.name ASC
-```
-### Completed Concepts
-```dataview
-LIST
-FROM ""
-WHERE status = "complete"
-SORT file.name ASC
 ```
 ## Papers
 ```dataview
