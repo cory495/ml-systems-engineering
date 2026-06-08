@@ -31,6 +31,9 @@ Data models are important because they affect how we think about the problem we 
 - down:: [[Relational Models]]
 - down:: [[Document Models]]
 - down:: [[NoSQL]]
+- down:: [[Network Models]]
+- down:: [[Graph-like Data Models]]
+- down:: [[Query Languages]]
 
 
 ---
