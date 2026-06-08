@@ -111,7 +111,7 @@ Used for navigation and route optimization.
 ---
 
 ### Rich Heterogeneous Graph (e.g., Facebook)
-![[Pasted image 20260607183711.png]]
+![[pic_graph_example.png]]
 
 Vertices can include:
 
