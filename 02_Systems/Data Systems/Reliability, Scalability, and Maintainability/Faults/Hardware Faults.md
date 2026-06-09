@@ -6,37 +6,154 @@ Date: 2026-06-05
 
 ## 1. Definition
 
+Hardware faults are failures caused by physical components of a system, such as disks, memory, CPUs, network devices, or power supplies.
+
+These faults occur due to physical degradation, manufacturing defects, or environmental conditions.
+
+Unlike software errors, hardware faults are typically random and non-deterministic.
+
 ---
-Hardware faults are when hardware components are the components that faulted.
+
 ## 2. Why It Matters
 
+Hardware faults are inevitable in any large-scale system.
+
+As systems scale to thousands or millions of machines, individual hardware failures become common rather than exceptional.
+
+Without proper fault tolerance, hardware failures can lead to:
+
+- Data loss
+    
+- Service outages
+    
+- Performance degradation
+    
+- Cascading system failures
+    
+
 ---
-All faults matter because they must be managed in such a way where they do not cause failures.
+
 ## 3. Key Ideas
 
+### Faults are inevitable
+
+Hardware components degrade over time due to:
+
+- Wear and tear
+    
+- Heat
+    
+- Electrical failure
+    
+- Manufacturing defects
+    
+
+### Failures are expected at scale
+
+In large distributed systems, hardware failure is not a rare event—it is a normal operating condition.
+
+### Fault tolerance is required
+
+Systems must assume that individual components will fail and continue operating correctly despite those failures.
+
 ---
-- Hardware faults will occur because wear and tear will cause hardware components to fail.
+
 ## 4. Examples
 
----
-- A common example of a hardware failure is when a hard drive dies, causing the information on the hard drive to be lost.
-## 5. How It Is Achieved
+### Disk Failure
+
+A hard drive crashes, making stored data temporarily or permanently unavailable if not replicated elsewhere.
 
 ---
-- Disks are set up in RAID configurations to prevent failure.
-- Servers have dual power supplies and hot-swappable CPUs.
-- Data centers have batteries and diesel generators for backup power.
-- These are all redundancy-based failure-tolerant systems.
+
+### Memory Failure
+
+A faulty memory module causes data corruption or unexpected system crashes.
+
+---
+
+### Network Hardware Failure
+
+A network switch or router fails, isolating part of a data center or degrading connectivity.
+
+---
+
+### Power Failure
+
+A server loses power due to electrical issues, shutting down abruptly.
+
+---
+
+## 5. How It Is Addressed
+
+Hardware faults are handled using redundancy and fault-tolerant design:
+
+- RAID configurations for disk redundancy
+    
+- Replication across multiple machines or data centers
+    
+- Redundant power supplies
+    
+- Uninterruptible power supplies (UPS)
+    
+- Backup generators in data centers
+    
+- Failover systems for network routing
+    
+- Health monitoring and automatic replacement of failed nodes
+    
+
+The core idea is to assume failure and design systems that continue operating correctly despite it.
+
+---
+
 ## 6. Tradeoffs
 
+Improving resilience to hardware faults often increases:
+
+- Cost (duplicate hardware and infrastructure)
+    
+- Operational complexity
+    
+- Energy consumption
+    
+- System design complexity
+    
+
+However, these costs are necessary for achieving high availability at scale.
+
 ---
-- The obvious tradeoff is price.
+
 ## 7. Related Concepts
-- [[Faults]]
-- [[Human Errors]]
-- [[Software Errors]]
+
+up:: [[Faults]]
+
+[[Software Errors]]  
+[[Human Errors]]  
+[[Reliability]]  
+[[Replication]]  
+[[Redundancy]]  
+[[Fault Tolerance]]
 
 ---
 
-## 8. Summary
-Hardware faults are faults caused by the errors in hardware components. Redundancies are the most common mitigation of hardware faults.
+## 8. Common Interview Questions
+
+- What are hardware faults?
+    
+- Why do hardware failures become more common at scale?
+    
+- How do distributed systems handle disk failures?
+    
+- What is RAID and why is it used?
+    
+- What is the difference between redundancy and replication?
+    
+- Why is fault tolerance necessary in large systems?
+    
+
+---
+
+## 9. Summary
+
+Hardware faults are failures caused by physical components such as disks, memory, and network devices. In large-scale systems, these failures are expected and handled through redundancy, replication, and fault-tolerant design to ensure continuous operation.
