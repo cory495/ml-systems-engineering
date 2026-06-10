@@ -34,7 +34,7 @@ prefix[r] - prefix[l-1]
 
 ---
 
-### 3. Two Pointers
+### 3. [[Two Pointers]]
 Used when array is sorted or needs pairing.
 
 Examples:

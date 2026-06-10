@@ -7,6 +7,9 @@
 ### Medium
 - [[Group Anagrams]]
 
+## [[Two Pointers]]
+### Easy
+- [[Valid Palindrome]]
 ## [[Sliding Window]]
 ### Easy
 - [[Best Time to Buy and Sell Stock]]
@@ -19,3 +22,4 @@
 down:: [[Arrays]]
 down:: [[Sliding Window]]
 down:: [[Stacks]]
+down:: [[Two Pointers]]
