@@ -6,6 +6,7 @@
 - [[Valid Anagram]]
 ### Medium
 - [[Group Anagrams]]
+- [[Top K Frequent Elements]]
 
 ## [[Two Pointers]]
 ### Easy
