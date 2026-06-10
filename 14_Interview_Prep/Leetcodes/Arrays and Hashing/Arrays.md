@@ -89,3 +89,4 @@ Examples:
 - down:: [[Encode and Decode Strings]]
 - down:: [[# Products of Array Except Self]]
 - down:: [[Valid Sudoku]]
+- down:: [[Longest Consecutive Sequence]]
