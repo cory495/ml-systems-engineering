@@ -1,7 +1,16 @@
-# Arrays
-## Easy
+# LeetCode Patterns
+## [[Arrays]]
+### Easy
 - [[Contains Duplicate]]
 - [[Two Sum]]
 - [[Valid Anagram]]
-## Medium
+### Medium
 - [[Group Anagrams]]
+
+## [[Sliding Window]]
+### Easy
+- [[Best Time to Buy and Sell Stock]]
+
+## [[Stacks]]
+## Easy
+- [[Valid Parentheses]]
