@@ -106,3 +106,44 @@ class Solution:
 
         return s.split('é')
 ```
+
+The above is the naive solution of using a random non-ASCII value. The thought of not needing to use non-ASCII values is important. I, then, thought to use the length but what if the string contained numbers at the beginning. Thus, `'#'` was used to separated the length from the string.
+```python
+class Solution:
+
+    def encode(self, strs: List[str]) -> str:
+
+        res = []
+
+        for s in strs:
+
+            res.append(f"{len(s)}#{s}")
+
+        return "".join(res)
+
+    def decode(self, s: str) -> List[str]:
+
+        res = []
+
+        i = 0
+
+        while i < len(s):
+
+            j = i
+
+            while s[j] != "#":
+
+                j += 1
+
+            length = int(s[i:j])
+
+            j += 1
+
+            # read string of that length
+
+            res.append(s[j:j+length])
+
+            i = j + length
+
+        return res
+```

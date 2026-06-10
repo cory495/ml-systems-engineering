@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14_Interview_Prep/Leetcodes/Arrays and Hashing/Encode and Decode Strings.md",
+                "file": "14_Interview_Prep/Leetcodes/Arrays and Hashing/Products of Array Except Self.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Encode and Decode Strings"
+              "title": "Products of Array Except Self"
             }
           }
         ],
@@ -309,10 +309,11 @@
   },
   "active": "c3376b287b82495f",
   "lastOpenFiles": [
+    "14_Interview_Prep/Leetcodes/Arrays and Hashing/Arrays.md",
+    "14_Interview_Prep/Leetcodes/Arrays and Hashing/Products of Array Except Self.md",
     "14_Interview_Prep/Leetcodes/Arrays and Hashing/Encode and Decode Strings.md",
     "14_Interview_Prep/Leetcodes/LeetCode Patterns.md",
     "14_Interview_Prep/Interview Questions.md",
-    "14_Interview_Prep/Leetcodes/Arrays and Hashing/Arrays.md",
     "14_Interview_Prep/Leetcodes/Arrays and Hashing/Top K Frequent Elements.md",
     "14_Interview_Prep/Leetcodes/Stacks/Stacks.md",
     "14_Interview_Prep/Leetcodes/Sliding Window/Sliding Window.md",
@@ -339,7 +340,6 @@
     "02_Systems/Data Systems/Data Models/Relational Models/Object-Relational Mismatch.md",
     "02_Systems/Data Systems/Data Models/Relational Models/Many-to-One and Many-to-Many Relationships.md",
     "02_Systems/Data Systems/Data Models/Data Models.md",
-    "Templates/Interview Templates/system_design_interview_question.md",
     "Pictures/pic_interconnected_resume_example.png",
     "Pictures/pic_outlier_example.png",
     "Pictures/pic_relational_linkedin.png",
