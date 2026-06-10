@@ -53,3 +53,26 @@ class Solution:
 
         return list(dt.values())
 ```
+
+The initial solution uses sorting. Sorting causes this solution to be `O(nklogk)` where `k` is the average string length and `n` is the number of strings. To overcome this, `ord(c)` is used. This way, the solution becomes `O(nk)`. I considered using a dictionary instead of `ord(c)`; however, `ord(c)` is the more optimal solution.
+```python
+class Solution:
+
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+
+        ans = {}
+
+        for s in strs:
+
+            count = [0] * 26
+
+            for c in s:
+
+                count[ord(c) - ord('a')] += 1
+
+            key = tuple(count)
+
+            ans[key] = ans.get(key, []) + [s]
+
+        return list(ans.values())
+```
