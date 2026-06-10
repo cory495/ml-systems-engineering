@@ -1,0 +1,48 @@
+---
+Difficulty: Easy
+Topics: Arrays
+---
+# Valid Anagram
+
+Given two strings `s` and `t`, return `true` if the two strings are anagrams of each other, otherwise return `false`.
+
+An **anagram** is a string that contains the exact same characters as another string, but the order of the characters can be different.
+
+**Example 1:**
+
+```java
+Input: s = "racecar", t = "carrace"
+
+Output: true
+```
+
+**Example 2:**
+
+```java
+Input: s = "jar", t = "jam"
+
+Output: false
+```
+
+**Constraints:**
+
+- `1 <= s.length, t.length <= 5 * 10^4`
+- `s` and `t` consist of lowercase English letters.
+
+**Solutions:**
+
+```python
+class Solution:
+
+    def hasDuplicate(self, nums: List[int]) -> bool:
+
+        return len(set(nums)) != len(nums)
+```
+
+```python
+class Solution:
+
+    def isAnagram(self, s: str, t: str) -> bool:
+
+        return Counter(s) == Counter(t)
+```
