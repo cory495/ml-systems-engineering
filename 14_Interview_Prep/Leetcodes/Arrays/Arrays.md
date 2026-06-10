@@ -80,8 +80,8 @@ Examples:
 ---
 ## Relevant Problems
 ### Easy
-- [[Contains Duplicate]]
-- [[Two Sum]]
-- [[Valid Anagram]]
+- down:: [[Contains Duplicate]]
+- down:: [[Two Sum]]
+- down:: [[Valid Anagram]]
 ### Medium
-- [[Group Anagrams]]
+- down:: [[Group Anagrams]]

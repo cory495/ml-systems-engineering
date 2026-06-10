@@ -66,4 +66,4 @@ for right in range(len(arr)):
 ---
 ## Relevant Problems
 ### Easy
-- [[Best Time to Buy and Sell Stock]]
+- down:: [[Best Time to Buy and Sell Stock]]

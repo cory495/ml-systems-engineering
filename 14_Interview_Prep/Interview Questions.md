@@ -8,7 +8,7 @@
 
 ### Coding
 
-- [[LeetCode Patterns]]
+- down:: [[LeetCode Patterns]]
     
 - [[Data Structures]]
     

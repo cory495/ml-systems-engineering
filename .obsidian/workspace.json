@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14_Interview_Prep/Leetcodes/Arrays.md",
+                "file": "14_Interview_Prep/Leetcodes/Arrays/Arrays.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14_Interview_Prep/Leetcodes/Sliding Window.md",
+                "file": "14_Interview_Prep/Leetcodes/Sliding Window/Sliding Window.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,16 +41,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14_Interview_Prep/Leetcodes/Stacks.md",
+                "file": "14_Interview_Prep/Interview Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stacks"
+              "title": "Interview Questions"
+            }
+          },
+          {
+            "id": "2575264bd6d6f1b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14_Interview_Prep/Interview Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interview Questions"
+            }
+          },
+          {
+            "id": "dc860793feab5175",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14_Interview_Prep/Leetcodes/Arrays/LeetCode Patterns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LeetCode Patterns"
+            }
+          },
+          {
+            "id": "c3376b287b82495f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14_Interview_Prep/Interview Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interview Questions"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -237,8 +279,8 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "bc-matrix-view"
+              "icon": "blinds",
+              "title": "Matrix view"
             }
           }
         ],
@@ -265,20 +307,28 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "b73685051976f4c8",
+  "active": "c3376b287b82495f",
   "lastOpenFiles": [
-    "14_Interview_Prep/Leetcodes/Sliding Window.md",
-    "14_Interview_Prep/Leetcodes/Stacks.md",
-    "Templates/Interview Templates/leetcode.md",
-    "14_Interview_Prep/Leetcodes/LeetCode Patterns.md",
-    "14_Interview_Prep/Leetcodes/Arrays.md",
-    "14_Interview_Prep/Leetcodes/Contains Duplicate.md",
-    "14_Interview_Prep/Leetcodes/Best Time to Buy and Sell Stock.md",
+    "14_Interview_Prep/Leetcodes/Stacks/Valid Parentheses.md",
     "14_Interview_Prep/Interview Questions.md",
-    "14_Interview_Prep/Leetcodes/Valid Parentheses.md",
-    "14_Interview_Prep/Leetcodes/Two Sum.md",
-    "14_Interview_Prep/Leetcodes/Valid Anagram.md",
-    "14_Interview_Prep/Leetcodes/Group Anagrams.md",
+    "14_Interview_Prep/Leetcodes/Stacks/Stacks.md",
+    "14_Interview_Prep/Leetcodes/Sliding Window/Sliding Window.md",
+    "14_Interview_Prep/Leetcodes/Sliding Window/Best Time to Buy and Sell Stock.md",
+    "14_Interview_Prep/Leetcodes/Arrays/Valid Anagram.md",
+    "14_Interview_Prep/Leetcodes/Arrays/Two Sum.md",
+    "14_Interview_Prep/Leetcodes/Arrays/LeetCode Patterns.md",
+    "14_Interview_Prep/Leetcodes/Arrays/Group Anagrams.md",
+    "14_Interview_Prep/Leetcodes/Arrays/Contains Duplicate.md",
+    "14_Interview_Prep/Leetcodes/Arrays/Arrays.md",
+    "02_Systems/Data Systems/Reliability, Scalability, and Maintainability/Faults/Software Errors.md",
+    "02_Systems/Data Systems/Reliability, Scalability, and Maintainability/Faults/Human Errors.md",
+    "02_Systems/Data Systems/Reliability, Scalability, and Maintainability/Faults/Faults.md",
+    "02_Systems/Data Systems/Data Systems.md",
+    "02_Systems/Data Systems/Reliability, Scalability, and Maintainability/Maintainability/Maintainability.md",
+    "14_Interview_Prep/Leetcodes/Stacks",
+    "14_Interview_Prep/Leetcodes/Sliding Window",
+    "14_Interview_Prep/Leetcodes/Arrays",
+    "Templates/Interview Templates/leetcode.md",
     "02_Systems/Data Systems/Data Models/Relational Models/Relational Models.md",
     "14_Interview_Prep/Leetcodes",
     "02_Systems/Data Systems/Data Models/Relational Models/Object-Relational Mismatch.md",
@@ -288,12 +338,7 @@
     "04_Distributed_Systems/Consensus.md",
     "03_Databases/LSM Trees.md",
     "02_Systems/Data Systems/Data Models/Query Languages/Query Languages.md",
-    "02_Systems/Data Systems/Reliability, Scalability, and Maintainability/Faults/Faults.md",
-    "02_Systems/Data Systems/Data Systems.md",
     "02_Systems/Data Systems/Reliability, Scalability, and Maintainability/Reliability.md",
-    "02_Systems/Data Systems/Reliability, Scalability, and Maintainability/Scalability/Scalability.md",
-    "02_Systems/Data Systems/Reliability, Scalability, and Maintainability/Scalability/Performance.md",
-    "02_Systems/Data Systems/Reliability, Scalability, and Maintainability/Scalability/Load.md",
     "Pictures/pic_interconnected_resume_example.png",
     "Pictures/pic_outlier_example.png",
     "Pictures/pic_relational_linkedin.png",
@@ -308,10 +353,7 @@
     "_publish",
     "Templates/Project Templates",
     "Templates/Research Templates",
-    "Templates/Notes Templates",
-    "Templates/Interview Templates",
     "Pictures/pic_graph_example.png",
-    "02_Systems/Data Systems/Data Models/Graph-like Data Models",
     "Pasted image 20260607183701.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
