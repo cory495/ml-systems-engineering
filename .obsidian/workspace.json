@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14_Interview_Prep/Leetcodes/Arrays and Hashing/Arrays.md",
+                "file": "14_Interview_Prep/Leetcodes/Arrays and Hashing/Valid Sudoku.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arrays"
+              "title": "Valid Sudoku"
             }
           }
         ],
@@ -309,15 +309,16 @@
   },
   "active": "c3376b287b82495f",
   "lastOpenFiles": [
-    "14_Interview_Prep/Leetcodes/Arrays and Hashing/Number of Senior Citizens.md",
-    "14_Interview_Prep/Leetcodes/Arrays and Hashing/Length of Last Word.md",
     "14_Interview_Prep/Leetcodes/LeetCode Patterns.md",
     "14_Interview_Prep/Leetcodes/Arrays and Hashing/Arrays.md",
+    "14_Interview_Prep/Leetcodes/Arrays and Hashing/Append Characters to String to Make Subsequence.md",
+    "14_Interview_Prep/Leetcodes/Arrays and Hashing/Average Waiting Time.md",
+    "14_Interview_Prep/Leetcodes/Arrays and Hashing/Number of Senior Citizens.md",
+    "14_Interview_Prep/Leetcodes/Arrays and Hashing/Length of Last Word.md",
     "14_Interview_Prep/Leetcodes/Arrays and Hashing/Score of a String.md",
     "14_Interview_Prep/Leetcodes/Arrays and Hashing/Group Anagrams.md",
     "14_Interview_Prep/Leetcodes/Arrays and Hashing/Encode and Decode Strings.md",
     "14_Interview_Prep/Leetcodes/Arrays and Hashing/Contains Duplicate.md",
-    "14_Interview_Prep/Leetcodes/Arrays and Hashing/Append Characters to String to Make Subsequence.md",
     "14_Interview_Prep/Leetcodes/Arrays and Hashing/Longest Consecutive Sequence.md",
     "14_Interview_Prep/Leetcodes/Arrays and Hashing/Is Subsequence.md",
     "14_Interview_Prep/Leetcodes/Arrays and Hashing/Valid Anagram.md",
@@ -335,7 +336,6 @@
     "14_Interview_Prep/Leetcodes/Bit Manipulation",
     "14_Interview_Prep/Interview Questions.md",
     "02_Systems/Data Systems/Data Models/NoSQL/Document Models.md",
-    "14_Interview_Prep/Leetcodes/Sorting and Searching/Sorting and Searching.md",
     "14_Interview_Prep/Leetcodes/Sorting and Searching",
     "14_Interview_Prep/Leetcodes/Linked Lists",
     "14_Interview_Prep/Leetcodes/Trees",

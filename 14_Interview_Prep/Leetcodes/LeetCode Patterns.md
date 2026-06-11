@@ -17,6 +17,7 @@
 - [[Valid Sudoku]]
 - [[Longest Consecutive Sequence]]
 - [[Append Characters to String to Make Subsequence]]
+- [[Average Waiting Time]]
 
 ## [[Two Pointers]]
 ### Easy

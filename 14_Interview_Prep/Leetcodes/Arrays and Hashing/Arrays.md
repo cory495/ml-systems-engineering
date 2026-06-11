@@ -97,3 +97,4 @@ Examples:
 - down:: [[Valid Sudoku]]
 - down:: [[Longest Consecutive Sequence]]
 - down:: [[Append Characters to String to Make Subsequence]]
+- down:: [[Average Waiting Time]]
