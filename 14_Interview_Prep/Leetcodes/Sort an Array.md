@@ -28,3 +28,34 @@ class Solution:
         
         return merge_sort(nums)
 ```
+```python
+```python
+class Solution:
+    def sortArray(self, nums: List[int]) -> List[int]:
+        def merge_sort(nums):
+            if len(nums) <= 1:
+                return nums
+            
+            mid = len(nums) // 2
+            left = merge_sort(nums[:mid])
+            right = merge_sort(nums[mid:])
+            return merge(left, right)
+
+        def merge(nums1, nums2):
+            i = j = 0
+            result = []
+            
+            while i < len(nums1) and j < len(nums2):
+                if nums1[i] <= nums2[j]:
+                    result.append(nums1[i])
+                    i += 1
+                else:
+                    result.append(nums2[j])
+                    j += 1
+            
+            result.extend(nums1[i:])
+            result.extend(nums2[j:])
+            return result
+        
+        return merge_sort(nums)
+```
