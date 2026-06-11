@@ -4,6 +4,11 @@
 - [[Contains Duplicate]]
 - [[Two Sum]]
 - [[Valid Anagram]]
+- [[Get Concatenation of Array]]
+- [[Replace Elements With Greatest Element On Right Side]]
+- [[Is Subsequence]]
+- [[Score of a String]]
+- [[Length of Last Word]]
 ### Medium
 - [[Group Anagrams]]
 - [[Top K Frequent Elements]]
@@ -11,6 +16,7 @@
 - [[Products of Array Except Self]]
 - [[Valid Sudoku]]
 - [[Longest Consecutive Sequence]]
+- [[Append Characters to String to Make Subsequence]]
 
 ## [[Two Pointers]]
 ### Easy

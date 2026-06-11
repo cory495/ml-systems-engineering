@@ -83,6 +83,11 @@ Examples:
 - down:: [[Contains Duplicate]]
 - down:: [[Two Sum]]
 - down:: [[Valid Anagram]]
+- down:: [[Get Concatenation of Array]]
+- down:: [[Replace Elements With Greatest Element On Right Side]]
+- down:: [[Is Subsequence]]
+- down:: [[Score of a String]]
+- down:: [[Length of Last Word]]
 ### Medium
 - down:: [[Group Anagrams]]
 - down:: [[Top K Frequent Elements]]
@@ -90,3 +95,4 @@ Examples:
 - down:: [[# Products of Array Except Self]]
 - down:: [[Valid Sudoku]]
 - down:: [[Longest Consecutive Sequence]]
+- down:: [[Append Characters to String to Make Subsequence]]
