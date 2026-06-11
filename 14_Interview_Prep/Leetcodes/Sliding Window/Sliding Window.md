@@ -67,3 +67,5 @@ for right in range(len(arr)):
 ## Relevant Problems
 ### Easy
 - down:: [[Best Time to Buy and Sell Stock]]
+### Medium
+- down:: [[Longest Substring without Repeating Characters]]

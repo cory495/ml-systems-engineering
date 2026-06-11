@@ -24,6 +24,8 @@
 ## [[Sliding Window]]
 ### Easy
 - [[Best Time to Buy and Sell Stock]]
+### Medium
+- [[Longest Substring without Repeating Characters]]
 
 ## [[Stacks]]
 ### Easy
