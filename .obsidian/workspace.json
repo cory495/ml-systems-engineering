@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14_Interview_Prep/Leetcodes/Arrays and Hashing/Length of Last Word.md",
+                "file": "14_Interview_Prep/Leetcodes/Arrays and Hashing/Arrays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Length of Last Word"
+              "title": "Arrays"
             }
           }
         ],
@@ -309,9 +309,10 @@
   },
   "active": "c3376b287b82495f",
   "lastOpenFiles": [
+    "14_Interview_Prep/Leetcodes/Arrays and Hashing/Number of Senior Citizens.md",
+    "14_Interview_Prep/Leetcodes/Arrays and Hashing/Length of Last Word.md",
     "14_Interview_Prep/Leetcodes/LeetCode Patterns.md",
     "14_Interview_Prep/Leetcodes/Arrays and Hashing/Arrays.md",
-    "14_Interview_Prep/Leetcodes/Arrays and Hashing/Length of Last Word.md",
     "14_Interview_Prep/Leetcodes/Arrays and Hashing/Score of a String.md",
     "14_Interview_Prep/Leetcodes/Arrays and Hashing/Group Anagrams.md",
     "14_Interview_Prep/Leetcodes/Arrays and Hashing/Encode and Decode Strings.md",
@@ -335,7 +336,6 @@
     "14_Interview_Prep/Interview Questions.md",
     "02_Systems/Data Systems/Data Models/NoSQL/Document Models.md",
     "14_Interview_Prep/Leetcodes/Sorting and Searching/Sorting and Searching.md",
-    "14_Interview_Prep/Leetcodes/Trees/Trees.md",
     "14_Interview_Prep/Leetcodes/Sorting and Searching",
     "14_Interview_Prep/Leetcodes/Linked Lists",
     "14_Interview_Prep/Leetcodes/Trees",

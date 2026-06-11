@@ -88,6 +88,7 @@ Examples:
 - down:: [[Is Subsequence]]
 - down:: [[Score of a String]]
 - down:: [[Length of Last Word]]
+- down:: [[Number of Senior Citizens]]
 ### Medium
 - down:: [[Group Anagrams]]
 - down:: [[Top K Frequent Elements]]
