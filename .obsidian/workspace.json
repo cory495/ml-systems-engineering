@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14_Interview_Prep/Leetcodes/Number of One Bits.md",
+                "file": "14_Interview_Prep/Leetcodes/LeetCode Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Number of One Bits"
+              "title": "LeetCode Patterns"
             }
           }
         ],
@@ -309,13 +309,16 @@
   },
   "active": "c3376b287b82495f",
   "lastOpenFiles": [
+    "14_Interview_Prep/Leetcodes/Bit Manipulation/Counting Bits.md",
     "14_Interview_Prep/Leetcodes/LeetCode Patterns.md",
-    "14_Interview_Prep/Leetcodes/Number of One Bits.md",
+    "14_Interview_Prep/Leetcodes/Bit Manipulation/Number of One Bits.md",
+    "14_Interview_Prep/Leetcodes/Bit Manipulation/Bit Manipulation.md",
+    "14_Interview_Prep/Leetcodes/Linked Lists/Linked Lists.md",
+    "14_Interview_Prep/Leetcodes/Bit Manipulation",
     "14_Interview_Prep/Interview Questions.md",
     "02_Systems/Data Systems/Data Models/NoSQL/Document Models.md",
     "14_Interview_Prep/Leetcodes/Sorting and Searching/Sorting and Searching.md",
     "14_Interview_Prep/Leetcodes/Trees/Trees.md",
-    "14_Interview_Prep/Leetcodes/Linked Lists/Linked Lists.md",
     "14_Interview_Prep/Leetcodes/Arrays and Hashing/Arrays.md",
     "14_Interview_Prep/Leetcodes/Sorting and Searching/Binary Search.md",
     "14_Interview_Prep/Leetcodes/Sorting and Searching",
@@ -337,8 +340,6 @@
     "14_Interview_Prep/Leetcodes/Two Pointers/Two Integer Sum II.md",
     "14_Interview_Prep/Leetcodes/Arrays and Hashing/Two Sum.md",
     "14_Interview_Prep/Leetcodes/Merge Two Sorted Linked.md Lists",
-    "14_Interview_Prep/Leetcodes/Arrays and Hashing/Valid Anagram.md",
-    "14_Interview_Prep/Leetcodes/Arrays and Hashing/Valid Sudoku.md",
     "14_Interview_Prep/Leetcodes/Two Pointers",
     "14_Interview_Prep/Leetcodes/Stacks",
     "14_Interview_Prep/Leetcodes/Sliding Window",
@@ -352,7 +353,6 @@
     "Pictures/pic_twitter_method_2.png",
     "Pictures/pic_twitter_SQL.png",
     "Pictures/pic_company_example.png",
-    "12_Papers/Reproductions",
     "Pictures/pic_graph_example.png",
     "Pasted image 20260607183701.png",
     "Untitled 1.canvas",

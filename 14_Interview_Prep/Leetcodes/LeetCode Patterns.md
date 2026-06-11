@@ -43,6 +43,10 @@
 ## [[Sorting and Searching]]
 ### Easy
 - [[Binary Search]]
+## [[Bit Manipulation]]
+### Easy
+- [[Counting Bits]]
+- [[Number of One Bits]]
 
 down:: [[Arrays]]
 down:: [[Sliding Window]]
