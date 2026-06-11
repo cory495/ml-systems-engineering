@@ -19,6 +19,8 @@
 - [[3Sum]]
 - [[Container with Most Water]]
 - [[Two Integer Sum II]]
+### Hard
+- [[Trapping Rain Water]]
 ## [[Sliding Window]]
 ### Easy
 - [[Best Time to Buy and Sell Stock]]
