@@ -157,6 +157,7 @@ Two pointers is a linear-time optimization technique for problems involving arra
 - down:: [[Valid Palindrome]]
 - down:: [[Valid Palindrome II]]
 - down:: [[Reverse String]]
+- down:: [[Valid Word Abbreviation]]
 ### Medium
 - down:: [[3Sum]]
 - down:: [[Container with Most Water]]
