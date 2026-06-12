@@ -104,3 +104,4 @@ Examples:
 - down:: [[Custom Sort String]]
 - down:: [[Range Sum Query 2D Immutable]]
 - down:: [[Sort Colors]]
+- down:: [[Count Vowel Strings in Ranges]]
