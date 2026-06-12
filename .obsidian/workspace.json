@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14_Interview_Prep/Leetcodes/Two Pointers/Reverse String in Place.md",
+                "file": "14_Interview_Prep/Leetcodes/Two Pointers/Two Pointers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reverse String in Place"
+              "title": "Two Pointers"
             }
           }
         ],
@@ -309,8 +309,14 @@
   },
   "active": "c3376b287b82495f",
   "lastOpenFiles": [
+    "14_Interview_Prep/Leetcodes/Two Pointers/Reverse String.md",
+    "14_Interview_Prep/Leetcodes/Two Pointers/Trapping Rain Water.md",
+    "14_Interview_Prep/Leetcodes/Two Pointers/Valid Palindrome II.md",
+    "14_Interview_Prep/Leetcodes/Two Pointers/Container with Most Water.md",
+    "14_Interview_Prep/Leetcodes/Two Pointers/Two Integer Sum II.md",
+    "14_Interview_Prep/Leetcodes/Two Pointers/Two Pointers.md",
+    "14_Interview_Prep/Leetcodes/Two Pointers/Valid Palindrome.md",
     "14_Interview_Prep/Leetcodes/Arrays and Hashing/Crawler Log Folder.md",
-    "14_Interview_Prep/Leetcodes/Two Pointers/Reverse String in Place.md",
     "14_Interview_Prep/Leetcodes/Arrays and Hashing/Arrays.md",
     "14_Interview_Prep/Leetcodes/Arrays and Hashing/Sort Colors.md",
     "14_Interview_Prep/Leetcodes/Sorting and Searching/Sorting and Searching.md",
@@ -329,12 +335,6 @@
     "14_Interview_Prep/Leetcodes/Arrays and Hashing/Custom Sort String.md",
     "14_Interview_Prep/Leetcodes/Arrays and Hashing/Valid Sudoku.md",
     "14_Interview_Prep/Leetcodes/Arrays and Hashing/Append Characters to String to Make Subsequence.md",
-    "14_Interview_Prep/Leetcodes/Arrays and Hashing/Average Waiting Time.md",
-    "14_Interview_Prep/Leetcodes/Arrays and Hashing/Number of Senior Citizens.md",
-    "14_Interview_Prep/Leetcodes/Arrays and Hashing/Length of Last Word.md",
-    "14_Interview_Prep/Leetcodes/Arrays and Hashing/Score of a String.md",
-    "14_Interview_Prep/Leetcodes/Arrays and Hashing/Group Anagrams.md",
-    "14_Interview_Prep/Leetcodes/Arrays and Hashing/Encode and Decode Strings.md",
     "14_Interview_Prep/Leetcodes/Bit Manipulation",
     "14_Interview_Prep/Leetcodes/Sorting and Searching",
     "14_Interview_Prep/Leetcodes/Linked Lists",
