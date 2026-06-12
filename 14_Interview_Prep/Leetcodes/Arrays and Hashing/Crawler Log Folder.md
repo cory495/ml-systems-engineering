@@ -4,6 +4,7 @@ Topics: Arrays
 ---
 # Crawler Log Folder
 
+This is a part of [[LeetCode Patterns]].
 There is a file system that keeps a log each time some user performs a change folder operation.
 
 The operations are described below:

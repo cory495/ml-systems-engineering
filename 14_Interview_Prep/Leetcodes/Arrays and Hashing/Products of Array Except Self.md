@@ -5,7 +5,7 @@ Topics: Arrays
 
 # Products of Array Except Self
 
-
+This is a part of [[LeetCode Patterns]].
 Given an integer array `nums`, return an array `output` where `output[i]` is the product of all the elements of `nums` except `nums[i]`.
 
 Each product is **guaranteed** to fit in a **32-bit** integer.

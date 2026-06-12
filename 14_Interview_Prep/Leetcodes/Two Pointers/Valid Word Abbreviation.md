@@ -4,6 +4,8 @@ Topics: Two Pointers
 ---
 # Valid Word Abbreviation
 
+This is a part of [[LeetCode Patterns]].
+
 A string can be shortened by replacing any number of `non-adjacent`, `non-empty` `substrings` with their lengths (without leading zeros).
 
 For example, the string `"implementation"` can be abbreviated in several ways, such as:

@@ -5,6 +5,7 @@ Topics: Two Pointers
 
 # Valid Palindrome
 
+This is a part of [[LeetCode Patterns]].
 
 Given a string `s`, return `true` if it is a **palindrome**, otherwise return `false`.
 

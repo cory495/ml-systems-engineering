@@ -4,6 +4,8 @@ Topics: Trees
 ---
 # Same Binary Tree
 
+This is a part of [[LeetCode Patterns]].
+
 ![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/4d811f95-0488-490b-1f4f-fc5489df0f00/public)
 
 ```java

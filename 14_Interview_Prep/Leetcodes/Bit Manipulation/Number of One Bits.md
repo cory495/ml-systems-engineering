@@ -5,6 +5,7 @@ Topics: Bit Manipulation
 
 # Number of 1 Bits
 
+This is a part of [[LeetCode Patterns]].
 
 You are given an unsigned integer `n`. Return the number of `1` bits in its binary representation.
 

@@ -5,7 +5,7 @@ Topics: Sorting
 
 # Binary Search
 
-
+This is a part of [[LeetCode Patterns]].
 
 You are given an array of **distinct** integers `nums`, sorted in ascending order, and an integer `target`.
 

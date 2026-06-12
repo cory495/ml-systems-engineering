@@ -4,6 +4,8 @@ Topics: Linked Lists
 ---
 # Reverse Linked List
 
+This is a part of [[LeetCode Patterns]].
+
 Given the beginning of a singly linked list `head`, reverse the list, and return the new beginning of the list.
 
 **Example 1:**

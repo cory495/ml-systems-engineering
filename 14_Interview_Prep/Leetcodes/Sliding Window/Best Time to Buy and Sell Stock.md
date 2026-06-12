@@ -4,6 +4,8 @@ Topics: Sliding Window
 ---
 # Best Time to Buy and Sell Stock
 
+This is a part of [[LeetCode Patterns]].
+
 You are given an integer array `prices` where `prices[i]` is the price of NeetCoin on the `ith` day.
 
 You may choose a **single day** to buy one NeetCoin and choose a **different day in the future** to sell it.

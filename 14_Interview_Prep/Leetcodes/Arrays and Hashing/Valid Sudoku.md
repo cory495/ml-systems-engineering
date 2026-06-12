@@ -4,7 +4,7 @@ Topics: Arrays
 ---
 # Valid Sudoku
 
-
+This is a part of [[LeetCode Patterns]].
 
 You are given a `9 x 9` Sudoku board `board`. A Sudoku board is valid if the following rules are followed:
 

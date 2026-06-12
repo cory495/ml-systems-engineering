@@ -5,6 +5,7 @@ Topics: Arrays
 
 # Sort Colors
 
+This is a part of [[LeetCode Patterns]].
 You are given an array `nums` consisting of `n` elements where each element is an integer representing a color:
 
 - `0` represents red

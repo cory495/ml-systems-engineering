@@ -3,6 +3,8 @@ Difficulty: Easy
 Topics: Arrays
 ---
 # Contains Duplicate
+
+This is a part of [[LeetCode Patterns]].
 Given an integer array `nums`, return `true` if any value appears **more than once** in the array, otherwise return `false`.
 
 **Example 1:**

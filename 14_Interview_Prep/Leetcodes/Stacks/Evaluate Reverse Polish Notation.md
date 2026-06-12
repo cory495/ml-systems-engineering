@@ -4,6 +4,8 @@ Topics: Stacks
 ---
 # Evaluate Reverse Polish Notation
 
+This is a part of [[LeetCode Patterns]].
+
 You are given an array of strings `tokens` that represents a **valid** arithmetic expression in [Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation).
 
 Return the integer that represents the evaluation of the expression.

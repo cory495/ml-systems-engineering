@@ -4,6 +4,8 @@ Topics: Linked Lists
 ---
 # Merge Two Sorted Linked Lists
 
+This is a part of [[LeetCode Patterns]].
+
 You are given the heads of two sorted linked lists `list1` and `list2`.
 
 Merge the two lists into one **sorted** linked list and return the head of the new sorted linked list.

@@ -5,6 +5,8 @@ Topics: Two Pointers
 
 # Valid Palindrome II
 
+This is a part of [[LeetCode Patterns]].
+
 You are given a string `s`, return true if the `s` can be a palindrome after deleting at most one character from it.
 
 A **palindrome** is a string that reads the same forward and backward.

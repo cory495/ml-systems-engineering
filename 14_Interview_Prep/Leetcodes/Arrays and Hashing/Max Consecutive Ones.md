@@ -4,6 +4,7 @@ Topics: Arrays
 ---
 # Max Consecutive Ones
 
+This is a part of [[LeetCode Patterns]].
 You are given a binary array `nums`, return the maximum number of consecutive `1`'s in the array.
 
 **Example 1:**

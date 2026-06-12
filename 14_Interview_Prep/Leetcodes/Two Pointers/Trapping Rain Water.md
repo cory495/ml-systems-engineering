@@ -4,6 +4,7 @@ Topics: Two Pointers
 ---
 # Trapping Rain Water
 
+This is a part of [[LeetCode Patterns]].
 
 You are given an array of non-negative integers `height` which represent an elevation map. Each value `height[i]` represents the height of a bar, which has a width of `1`.
 

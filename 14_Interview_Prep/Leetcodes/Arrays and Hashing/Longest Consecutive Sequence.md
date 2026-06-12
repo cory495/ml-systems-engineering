@@ -4,6 +4,7 @@ Topics: Arrays
 ---
 # Longest Consecutive Sequence
 
+This is a part of [[LeetCode Patterns]].
 Given an array of integers `nums`, return _the length_ of the longest consecutive sequence of elements that can be formed.
 
 A _consecutive sequence_ is a sequence of elements in which each element is exactly `1` greater than the previous element. The elements do _not_ have to be consecutive in the original array.

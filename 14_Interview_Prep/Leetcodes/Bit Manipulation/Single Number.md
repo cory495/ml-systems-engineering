@@ -5,6 +5,8 @@ Topics: Bit Manipulation
 
 # Single Number
 
+This is a part of [[LeetCode Patterns]].
+
 You are given a **non-empty** array of integers `nums`. Every integer appears twice except for one.
 
 Return the integer that appears only once.

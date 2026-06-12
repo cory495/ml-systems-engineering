@@ -4,6 +4,7 @@ Topics: Arrays
 ---
 # Valid Anagram
 
+This is a part of [[LeetCode Patterns]].
 Given two strings `s` and `t`, return `true` if the two strings are anagrams of each other, otherwise return `false`.
 
 An **anagram** is a string that contains the exact same characters as another string, but the order of the characters can be different.

@@ -5,6 +5,8 @@ Topics: Trees
 
 # Invert Binary Tree
 
+This is a part of [[LeetCode Patterns]].
+
 You are given the root of a binary tree `root`. Invert the binary tree and return its root.
 
 **Example 1:**

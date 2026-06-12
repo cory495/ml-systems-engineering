@@ -5,6 +5,7 @@ Topics: Stacks
 
 # Valid Parentheses
 
+This is a part of [[LeetCode Patterns]].
 
 You are given a string `s` consisting of the following characters: `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`.
 

@@ -4,6 +4,8 @@ Topics: Trees
 ---
 # Balanced Binary Tree
 
+This is a part of [[LeetCode Patterns]].
+
 Given a binary tree, return `true` if it is **height-balanced** and `false` otherwise.
 
 A **height-balanced** binary tree is defined as a binary tree in which the left and right subtrees of every node differ in height by no more than 1.

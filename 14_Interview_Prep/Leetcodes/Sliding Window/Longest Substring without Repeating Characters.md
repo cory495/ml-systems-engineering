@@ -4,6 +4,7 @@ Topics: Sliding Window
 ---
 # Longest Substring Without Repeating Characters
 
+This is a part of [[LeetCode Patterns]].
 
 Given a string `s`, find the _length of the longest substring_ without duplicate characters.
 
