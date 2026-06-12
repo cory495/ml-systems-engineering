@@ -69,3 +69,4 @@ for right in range(len(arr)):
 - down:: [[Best Time to Buy and Sell Stock]]
 ### Medium
 - down:: [[Longest Substring without Repeating Characters]]
+- down:: [[Longest Repeating Character Replacement]]

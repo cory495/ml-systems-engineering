@@ -96,3 +96,5 @@ Examples:
 
 ### Easy
 - down:: [[Binary Search]]
+### Medium
+- down:: [[Sort an Array]]

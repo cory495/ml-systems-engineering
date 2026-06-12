@@ -58,3 +58,7 @@ Total: O(n)
 ## Relevant Problems
 ### Easy
 - down:: [[Valid Parentheses]]
+### Medium
+- down:: [[Daily Temperatures]]
+- down:: [[Evaluate Reverse Polish Notation]]
+- down:: [[Min Stack]]

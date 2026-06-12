@@ -320,4 +320,5 @@ class Solution:
 
 ### Easy
 - down:: [[Counting Bits]]
+- down:: [[Single Number]]
 - down:: [[Number of One Bits]]
