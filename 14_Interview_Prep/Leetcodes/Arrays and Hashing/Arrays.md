@@ -91,6 +91,7 @@ Examples:
 - down:: [[Number of Senior Citizens]]
 - down:: [[Max Consecutive Ones]]
 - down:: [[Longest Common Prefix]]
+- down:: [[String Matching in Array]]
 ### Medium
 - down:: [[Group Anagrams]]
 - down:: [[Top K Frequent Elements]]
