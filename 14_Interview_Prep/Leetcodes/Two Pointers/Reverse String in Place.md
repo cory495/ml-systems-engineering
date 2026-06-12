@@ -18,3 +18,11 @@ class Solution:
 
         return s
 ```
+
+```python
+class Solution:
+
+    def reverseString(self, s: List[str]) -> None:
+
+        s[:] = s[::-1]
+```
