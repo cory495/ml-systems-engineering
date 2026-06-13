@@ -99,6 +99,7 @@ Examples:
 - down:: [[Pascal's Triangle]]
 - down:: [[Remove Element]]
 - down:: [[Unique Email Addresses]]
+- down:: [[Majority Element]]
 ### Medium
 - down:: [[Group Anagrams]]
 - down:: [[Top K Frequent Elements]]
