@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14_Interview_Prep/Leetcodes/Backspace String Comparison.md",
+                "file": "14_Interview_Prep/Leetcodes/Check if Two String Arrays are Equivalent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backspace String Comparison"
+              "title": "Check if Two String Arrays are Equivalent"
             }
           }
         ],
@@ -309,8 +309,9 @@
   },
   "active": "c3376b287b82495f",
   "lastOpenFiles": [
-    "14_Interview_Prep/Leetcodes/Reverse Words in a String III.md",
     "14_Interview_Prep/Leetcodes/Backspace String Comparison.md",
+    "14_Interview_Prep/Leetcodes/Check if Two String Arrays are Equivalent.md",
+    "14_Interview_Prep/Leetcodes/Reverse Words in a String III.md",
     "14_Interview_Prep/Leetcodes/Sort Array by Parity.md",
     "14_Interview_Prep/Leetcodes/Find First Palindromic String in Array.md",
     "14_Interview_Prep/Leetcodes/Assign Cookies.md",
@@ -334,7 +335,6 @@
     "14_Interview_Prep/Leetcodes/Two Pointers/Two Integer Sum II.md",
     "14_Interview_Prep/Leetcodes/Two Pointers/Trapping Rain Water.md",
     "14_Interview_Prep/Leetcodes/Two Pointers/Reverse String.md",
-    "14_Interview_Prep/Leetcodes/Two Pointers/Container with Most Water.md",
     "14_Interview_Prep/Leetcodes/Bit Manipulation",
     "14_Interview_Prep/Leetcodes/Sorting and Searching",
     "14_Interview_Prep/Leetcodes/Linked Lists",
