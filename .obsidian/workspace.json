@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14_Interview_Prep/Leetcodes/Baseball Game.md",
+                "file": "14_Interview_Prep/Leetcodes/Pascal's Triangle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Baseball Game"
+              "title": "Pascal's Triangle"
             }
           }
         ],
@@ -309,8 +309,9 @@
   },
   "active": "c3376b287b82495f",
   "lastOpenFiles": [
-    "14_Interview_Prep/Leetcodes/Backspace String Comparison.md",
     "14_Interview_Prep/Leetcodes/Baseball Game.md",
+    "14_Interview_Prep/Leetcodes/Pascal's Triangle.md",
+    "14_Interview_Prep/Leetcodes/Backspace String Comparison.md",
     "14_Interview_Prep/Leetcodes/Best Time to Buy and Sell Stock II.md",
     "14_Interview_Prep/Leetcodes/Check if Two String Arrays are Equivalent.md",
     "14_Interview_Prep/Leetcodes/Contain Duplicate II.md",
@@ -334,7 +335,6 @@
     "07_ML_Systems/Feature Store.md",
     "14_Interview_Prep/Leetcodes/Two Pointers/Valid Word Abbreviation.md",
     "14_Interview_Prep/Leetcodes/Two Pointers/Valid Palindrome II.md",
-    "14_Interview_Prep/Leetcodes/Two Pointers/Valid Palindrome.md",
     "14_Interview_Prep/Leetcodes/Bit Manipulation",
     "14_Interview_Prep/Leetcodes/Sorting and Searching",
     "14_Interview_Prep/Leetcodes/Linked Lists",
