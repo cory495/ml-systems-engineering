@@ -5,6 +5,7 @@ Topics: Arrays
 # Count Vowel Strings in Ranges
 
 This is a part of [[LeetCode Patterns]].
+
 You are given a **0-indexed** array of strings `words` and a 2D array of integers `queries`.
 
 Each query `queries[i] = [li, ri]` asks us to find the number of strings present at the indices ranging from `li` to `ri` (both **inclusive**) of `words` that start and end with a vowel.

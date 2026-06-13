@@ -67,6 +67,10 @@ for right in range(len(arr)):
 ## Relevant Problems
 ### Easy
 - down:: [[Best Time to Buy and Sell Stock]]
+- down:: [[Contain Duplicate II]]
 ### Medium
 - down:: [[Longest Substring without Repeating Characters]]
 - down:: [[Longest Repeating Character Replacement]]
+- down:: [[Permutation in String]]
+### Hard
+- down:: [[Minimum Window Substring]]

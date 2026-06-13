@@ -7,6 +7,7 @@ Topics: Arrays
 # Average Waiting Time
 
 This is a part of [[LeetCode Patterns]].
+
 There is a restaurant with a single chef. You are given an array `customers`, where `customers[i] = [arrival[i], time[i]]:`
 
 - `arrival[i]` is the arrival time of the `i-th` customer. The arrival times are sorted in **non-decreasing** order.

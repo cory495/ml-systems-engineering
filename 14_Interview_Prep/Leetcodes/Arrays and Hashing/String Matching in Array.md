@@ -6,6 +6,7 @@ Topics: Arrays
 # String Matching in an Array
 
 This is a part of [[LeetCode Patterns]].
+
 You are given an array of string `words`, return all strings in `words` that are a **substring** of another word. You can return the answer in **any order**.
 
 Note: A **substring** is a contiguous **non-empty** sequence of characters within a string.

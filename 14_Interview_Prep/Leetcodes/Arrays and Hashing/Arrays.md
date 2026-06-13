@@ -93,6 +93,12 @@ Examples:
 - down:: [[Longest Common Prefix]]
 - down:: [[String Matching in Array]]
 - down:: [[Can Place Flowerbeds]]
+- down:: [[Best Time to Buy and Sell Stock II]]
+- down:: [[Isomorphic Strings]]
+- down:: [[Merge Sorted Array]]
+- down:: [[Pascal's Triangle]]
+- down:: [[Remove Element]]
+- down:: [[Unique Email Addresses]]
 ### Medium
 - down:: [[Group Anagrams]]
 - down:: [[Top K Frequent Elements]]
@@ -106,3 +112,4 @@ Examples:
 - down:: [[Range Sum Query 2D Immutable]]
 - down:: [[Sort Colors]]
 - down:: [[Count Vowel Strings in Ranges]]
+- down:: [[Majority Element II]]

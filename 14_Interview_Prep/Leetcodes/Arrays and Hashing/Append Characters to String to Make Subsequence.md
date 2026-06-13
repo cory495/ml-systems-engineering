@@ -6,6 +6,7 @@ Topics: Arrays
 # Append Characters to String to Make Subsequence
 
 This is a part of [[LeetCode Patterns]].
+
 You are given two strings `s` and `t` consisting of only lowercase English letters.
 
 Return the minimum number of characters that need to be appended to the end of `s` so that `t` becomes a subsequence of `s`.

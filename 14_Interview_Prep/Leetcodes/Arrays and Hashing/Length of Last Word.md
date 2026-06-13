@@ -5,6 +5,7 @@ Topics: Arrays
 # Length Of Last Word
 
 This is a part of [[LeetCode Patterns]].
+
 You are given a string `s` consisting of words and spaces, return the length of the **last** word in the string.
 
 A **word** is a maximal substring consisting of non-space characters only.
