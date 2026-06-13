@@ -100,6 +100,7 @@ Examples:
 - down:: [[Remove Element]]
 - down:: [[Unique Email Addresses]]
 - down:: [[Majority Element]]
+- down:: [[Maximum Difference Between Even and Odd Frequency I]]
 ### Medium
 - down:: [[Group Anagrams]]
 - down:: [[Top K Frequent Elements]]

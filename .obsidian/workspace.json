@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14_Interview_Prep/Leetcodes/Arrays and Hashing/Majority Element.md",
+                "file": "14_Interview_Prep/Leetcodes/Arrays and Hashing/Arrays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Majority Element"
+              "title": "Arrays"
             }
           }
         ],
@@ -307,10 +307,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "3a7c9ec5185534cf",
+  "active": "c3376b287b82495f",
   "lastOpenFiles": [
-    "14_Interview_Prep/Leetcodes/Arrays and Hashing/Arrays.md",
+    "14_Interview_Prep/Leetcodes/Arrays and Hashing/Maximum Difference Between Even and Odd Frequency I.md",
+    "14_Interview_Prep/Leetcodes/Arrays and Hashing/Max Consecutive Ones.md",
     "14_Interview_Prep/Leetcodes/Arrays and Hashing/Majority Element.md",
+    "14_Interview_Prep/Leetcodes/Arrays and Hashing/Arrays.md",
     "14_Interview_Prep/Leetcodes/LeetCode Patterns.md",
     "14_Interview_Prep/Leetcodes/Two Pointers/3Sum.md",
     "14_Interview_Prep/Leetcodes/Two Pointers/Merge Two 2D Arrays by Summing Values.md",
@@ -333,8 +335,6 @@
     "14_Interview_Prep/Leetcodes/Two Pointers/Container with Most Water.md",
     "14_Interview_Prep/Leetcodes/Two Pointers/Check if Two String Arrays are Equivalent.md",
     "14_Interview_Prep/Leetcodes/Two Pointers/Backspace String Comparison.md",
-    "14_Interview_Prep/Leetcodes/Two Pointers/Assign Cookies.md",
-    "14_Interview_Prep/Leetcodes/Two Pointers/Apply Operations to an Array.md",
     "14_Interview_Prep/Leetcodes/Bit Manipulation",
     "14_Interview_Prep/Leetcodes/Sorting and Searching",
     "14_Interview_Prep/Leetcodes/Linked Lists",
