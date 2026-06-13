@@ -92,6 +92,7 @@ Examples:
 - down:: [[Max Consecutive Ones]]
 - down:: [[Longest Common Prefix]]
 - down:: [[String Matching in Array]]
+- down:: [[Can Place Flowerbeds]]
 ### Medium
 - down:: [[Group Anagrams]]
 - down:: [[Top K Frequent Elements]]
