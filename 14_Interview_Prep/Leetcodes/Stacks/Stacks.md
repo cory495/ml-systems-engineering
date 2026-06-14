@@ -58,6 +58,8 @@ Total: O(n)
 ## Relevant Problems
 ### Easy
 - down:: [[Valid Parentheses]]
+- down:: [[Next Greater Element I]]
+- down:: [[Baseball Game]]
 ### Medium
 - down:: [[Daily Temperatures]]
 - down:: [[Evaluate Reverse Polish Notation]]
