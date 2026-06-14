@@ -98,3 +98,4 @@ Examples:
 - down:: [[Binary Search]]
 ### Medium
 - down:: [[Sort an Array]]
+- down:: [[Search a 2D Matrix]]
