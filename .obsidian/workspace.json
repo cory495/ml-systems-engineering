@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14_Interview_Prep/Leetcodes/Linked Lists/Linked Lists.md",
+                "file": "14_Interview_Prep/Leetcodes/Linked Lists/Reverse Nodes in K Group.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linked Lists"
+              "title": "Reverse Nodes in K Group"
             }
           }
         ],
@@ -309,10 +309,11 @@
   },
   "active": "c3376b287b82495f",
   "lastOpenFiles": [
+    "14_Interview_Prep/Leetcodes/Linked Lists/Linked Lists.md",
+    "14_Interview_Prep/Leetcodes/Linked Lists/Reverse Nodes in K Group.md",
     "14_Interview_Prep/Leetcodes/Linked Lists/Copy Linked List with Random Pointer.md",
     "14_Interview_Prep/Leetcodes/Linked Lists/Add Two Numbers.md",
     "14_Interview_Prep/Leetcodes/Linked Lists/Find the Duplicate Number.md",
-    "14_Interview_Prep/Leetcodes/Linked Lists/Linked Lists.md",
     "14_Interview_Prep/Leetcodes/Linked Lists/Reorder Linked List.md",
     "14_Interview_Prep/Leetcodes/Linked Lists/Remove Nth Node from List.md",
     "14_Interview_Prep/Leetcodes/Linked Lists/Intersection of Two Linked Lists.md",
@@ -335,7 +336,6 @@
     "Untitled.canvas",
     "14_Interview_Prep/Leetcodes/Two Pointers/Trapping Rain Water.md",
     "14_Interview_Prep/Leetcodes/Two Pointers/Container with Most Water.md",
-    "14_Interview_Prep/Leetcodes/Stacks/Stacks.md",
     "14_Interview_Prep/Leetcodes/Math",
     "14_Interview_Prep/Leetcodes/Bit Manipulation",
     "14_Interview_Prep/Leetcodes/Sorting and Searching",
