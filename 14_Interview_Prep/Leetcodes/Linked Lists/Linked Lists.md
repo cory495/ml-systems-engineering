@@ -97,3 +97,5 @@ Examples:
 - down:: [[Reverse Linked List]]
 - down:: [[Linked List Cycle Detection]]
 - down:: [[Merge Two Sorted Linked Lists]]
+### Medium
+- down:: [[Remove Nth Node from List]]
