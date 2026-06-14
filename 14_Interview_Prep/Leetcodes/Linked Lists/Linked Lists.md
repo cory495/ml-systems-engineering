@@ -99,3 +99,4 @@ Examples:
 - down:: [[Merge Two Sorted Linked Lists]]
 ### Medium
 - down:: [[Remove Nth Node from List]]
+- down:: [[Find the Duplicate Number]]
