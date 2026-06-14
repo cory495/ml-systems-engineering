@@ -266,32 +266,6 @@ class Solution:
 
 ---
 
-## Common Interview Problems
-
-### Easy
-
-- Number of 1 Bits
-- Counting Bits
-- Reverse Bits
-- Power of Two
-- Single Number
-
-### Medium
-
-- Sum of Two Integers
-- Bitwise AND of Numbers Range
-- Subsets
-- Single Number II
-- Maximum XOR of Two Numbers
-
-### Hard
-
-- Minimum One Bit Operations
-- Maximum XOR Queries
-- Advanced Trie + XOR Problems
-
----
-
 ## Complexity Cheat Sheet
 
 | Operation | Complexity |
@@ -322,3 +296,5 @@ class Solution:
 - down:: [[Counting Bits]]
 - down:: [[Single Number]]
 - down:: [[Number of One Bits]]
+- down:: [[Missing Number]]
+- down:: [[Reverse Bits]]
