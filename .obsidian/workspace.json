@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14_Interview_Prep/Leetcodes/Math/Plus One.md",
+                "file": "14_Interview_Prep/Leetcodes/Math/Multiply Strings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plus One"
+              "title": "Multiply Strings"
             }
           }
         ],
@@ -309,8 +309,10 @@
   },
   "active": "c3376b287b82495f",
   "lastOpenFiles": [
-    "14_Interview_Prep/Leetcodes/Math/Sqrt(x).md",
     "14_Interview_Prep/Leetcodes/Math/Plus One.md",
+    "14_Interview_Prep/Leetcodes/Math/Multiply Strings.md",
+    "14_Interview_Prep/Leetcodes/Math/Pow(x, n).md",
+    "14_Interview_Prep/Leetcodes/Math/Sqrt(x).md",
     "14_Interview_Prep/Leetcodes/1D Dynamic Programming/House Robber II.md",
     "14_Interview_Prep/Leetcodes/1D Dynamic Programming/House Robbers.md",
     "14_Interview_Prep/Leetcodes/1D Dynamic Programming/Climbing Stairs.md",
@@ -334,8 +336,6 @@
     "14_Interview_Prep/Leetcodes/Linked Lists/Intersection of Two Linked Lists.md",
     "14_Interview_Prep/Leetcodes/Linked Lists/Linked List Cycle Detection.md",
     "14_Interview_Prep/Leetcodes/Linked Lists/Middle of the Linked List.md",
-    "14_Interview_Prep/Leetcodes/Linked Lists/Palindrome Linked List.md",
-    "14_Interview_Prep/Leetcodes/Linked Lists/Remove Duplicates from Sorted Array.md",
     "Untitled.canvas",
     "14_Interview_Prep/Leetcodes/Math",
     "14_Interview_Prep/Leetcodes/Bit Manipulation",
