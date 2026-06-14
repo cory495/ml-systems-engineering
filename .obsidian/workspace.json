@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14_Interview_Prep/Leetcodes/1D Dynamic Programming/Min Climbing Stairs.md",
+                "file": "14_Interview_Prep/Leetcodes/1D Dynamic Programming/House Robbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Min Climbing Stairs"
+              "title": "House Robbers"
             }
           }
         ],
@@ -309,8 +309,9 @@
   },
   "active": "c3376b287b82495f",
   "lastOpenFiles": [
-    "14_Interview_Prep/Leetcodes/1D Dynamic Programming/Climbing Stairs.md",
     "14_Interview_Prep/Leetcodes/1D Dynamic Programming/Min Climbing Stairs.md",
+    "14_Interview_Prep/Leetcodes/1D Dynamic Programming/House Robbers.md",
+    "14_Interview_Prep/Leetcodes/1D Dynamic Programming/Climbing Stairs.md",
     "14_Interview_Prep/Leetcodes/Arrays and Hashing/Append Characters to String to Make Subsequence.md",
     "14_Interview_Prep/Leetcodes/Untitled.md",
     "14_Interview_Prep/Leetcodes/1D Dynamic Programming",
@@ -335,7 +336,6 @@
     "14_Interview_Prep/Leetcodes/Linked Lists/Remove Linked List Elements.md",
     "14_Interview_Prep/Leetcodes/Sorting and Searching/Sorting and Searching.md",
     "14_Interview_Prep/Leetcodes/Sorting and Searching/Search in Rotated Sorted Array.md",
-    "14_Interview_Prep/Leetcodes/Sorting and Searching/Sort an Array.md",
     "Untitled.canvas",
     "14_Interview_Prep/Leetcodes/Math",
     "14_Interview_Prep/Leetcodes/Bit Manipulation",
