@@ -65,3 +65,5 @@ Total: O(n)
 - down:: [[Evaluate Reverse Polish Notation]]
 - down:: [[Min Stack]]
 - down:: [[Car Fleet]]
+### Hard
+- down:: [[Largest Rectangle in Histogram]]
