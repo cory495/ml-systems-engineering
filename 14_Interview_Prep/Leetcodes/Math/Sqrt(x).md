@@ -2,8 +2,6 @@
 Difficulty: Easy
 Topics: Math
 ---
-
-
 # Sqrt(x)
 
 This is a part of [[LeetCode Patterns]].
