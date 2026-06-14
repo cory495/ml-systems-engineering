@@ -4,6 +4,8 @@ Topics: Linked Lists
 ---
 # Find the Duplicate Number
 
+This is a part of [[LeetCode Patterns]].
+
 You are given an array of integers `nums` containing `n + 1` integers. Each integer in `nums` is in the range `[1, n]` inclusive.
 
 There is exactly **one repeated integer** in `nums`, and every other integer appears at most once.
