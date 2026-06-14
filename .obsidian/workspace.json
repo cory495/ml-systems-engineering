@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14_Interview_Prep/Leetcodes/Linked Lists/Intersection of Two Linked Lists.md",
+                "file": "14_Interview_Prep/Leetcodes/Linked Lists/Linked Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intersection of Two Linked Lists"
+              "title": "Linked Lists"
             }
           }
         ],
@@ -309,14 +309,18 @@
   },
   "active": "c3376b287b82495f",
   "lastOpenFiles": [
-    "14_Interview_Prep/Leetcodes/Linked Lists/Linked List Cycle Detection.md",
-    "14_Interview_Prep/Leetcodes/Linked Lists/Intersection of Two Linked Lists.md",
+    "14_Interview_Prep/Leetcodes/Linked Lists/Copy Linked List with Random Pointer.md",
+    "14_Interview_Prep/Leetcodes/Linked Lists/Add Two Numbers.md",
+    "14_Interview_Prep/Leetcodes/Linked Lists/Find the Duplicate Number.md",
     "14_Interview_Prep/Leetcodes/Linked Lists/Linked Lists.md",
+    "14_Interview_Prep/Leetcodes/Linked Lists/Reorder Linked List.md",
+    "14_Interview_Prep/Leetcodes/Linked Lists/Remove Nth Node from List.md",
+    "14_Interview_Prep/Leetcodes/Linked Lists/Intersection of Two Linked Lists.md",
+    "14_Interview_Prep/Leetcodes/Linked Lists/Linked List Cycle Detection.md",
     "14_Interview_Prep/Leetcodes/Linked Lists/Middle of the Linked List.md",
     "14_Interview_Prep/Leetcodes/Linked Lists/Palindrome Linked List.md",
     "14_Interview_Prep/Leetcodes/Linked Lists/Remove Duplicates from Sorted Array.md",
     "14_Interview_Prep/Leetcodes/Linked Lists/Remove Linked List Elements.md",
-    "14_Interview_Prep/Leetcodes/Linked Lists/Remove Nth Node from List.md",
     "14_Interview_Prep/Leetcodes/Sorting and Searching/Sorting and Searching.md",
     "14_Interview_Prep/Leetcodes/Sorting and Searching/Search in Rotated Sorted Array.md",
     "14_Interview_Prep/Leetcodes/Sorting and Searching/Sort an Array.md",
@@ -327,15 +331,11 @@
     "14_Interview_Prep/Leetcodes/Sliding Window/Sliding Window Maximum.md",
     "14_Interview_Prep/Leetcodes/Linked Lists/LRU Cache.md",
     "14_Interview_Prep/Leetcodes/Linked Lists/Merge Two Sorted Linked Lists.md",
-    "14_Interview_Prep/Leetcodes/Linked Lists/Find the Duplicate Number.md",
     "14_Interview_Prep/Leetcodes/Linked Lists/Reverse Linked List.md",
     "Untitled.canvas",
     "14_Interview_Prep/Leetcodes/Two Pointers/Trapping Rain Water.md",
     "14_Interview_Prep/Leetcodes/Two Pointers/Container with Most Water.md",
     "14_Interview_Prep/Leetcodes/Stacks/Stacks.md",
-    "14_Interview_Prep/Leetcodes/Stacks/Largest Rectangle in Histogram.md",
-    "14_Interview_Prep/Leetcodes/Stacks/Next Greater Element I.md",
-    "14_Interview_Prep/Leetcodes/Stacks/Min Stack.md",
     "14_Interview_Prep/Leetcodes/Math",
     "14_Interview_Prep/Leetcodes/Bit Manipulation",
     "14_Interview_Prep/Leetcodes/Sorting and Searching",

@@ -104,5 +104,8 @@ Examples:
 ### Medium
 - down:: [[Remove Nth Node from List]]
 - down:: [[Find the Duplicate Number]]
+- down:: [[Reorder Linked List]]
+- down:: [[Add Two Numbers]]
+- down:: [[Copy Linked List with Random Pointer]]
 ### Hard
 - down:: [[Merge K Sorted Linked Lists]]
