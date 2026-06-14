@@ -4,6 +4,8 @@ Topics: Linked Lists
 ---
 # Reverse Nodes in K-Group
 
+This is a part of [[LeetCode Patterns]].
+
 You are given the head of a singly linked list `head` and a positive integer `k`.
 
 You must reverse the first `k` nodes in the linked list, and then reverse the next `k` nodes, and so on. If there are fewer than `k` nodes left, leave the nodes as they are.
