@@ -101,6 +101,8 @@ Examples:
 - down:: [[Unique Email Addresses]]
 - down:: [[Majority Element]]
 - down:: [[Maximum Difference Between Even and Odd Frequency I]]
+- down:: [[Longest Palindrome]]
+- down:: [[Range Sum Query Immutable]]
 ### Medium
 - down:: [[Group Anagrams]]
 - down:: [[Top K Frequent Elements]]
