@@ -97,6 +97,10 @@ Examples:
 - down:: [[Reverse Linked List]]
 - down:: [[Linked List Cycle Detection]]
 - down:: [[Merge Two Sorted Linked Lists]]
+- down:: [[Palindrome Linked List]]
+- down:: [[Remove Linked List Elements]]
+- down:: [[Remove Duplicates from Sorted Array]]
+- down:: [[Middle of the Linked List]]
 ### Medium
 - down:: [[Remove Nth Node from List]]
 - down:: [[Find the Duplicate Number]]

@@ -167,7 +167,7 @@ Two pointers is a linear-time optimization technique for problems involving arra
 - down:: [[Merge Two 2D Arrays by Summing Values]]
 - down:: [[Minimum Recolors to Get K Consecutive Black Blocks]]
 - down:: [[Move Zeroes]]
-- down:: [[Remove Duplicates from Sorted Array]]
+- down:: [[14_Interview_Prep/Leetcodes/Two Pointers/Remove Duplicates from Sorted Array]]
 - down:: [[Reverse Words in a String III]]
 - down:: [[Sort Array by Parity]]
 ### Medium
