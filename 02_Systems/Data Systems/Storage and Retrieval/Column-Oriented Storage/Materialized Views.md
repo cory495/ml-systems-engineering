@@ -87,7 +87,7 @@ Think:
 
 [[Data Cubes]]
 [[OLAP]]
-[[Data Warehousing]]
+[[Data Warehouse]]
 [[Column-Oriented Storage]]
 [[Batch Processing]]
 

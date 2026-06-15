@@ -81,10 +81,14 @@
             "id": "c3376b287b82495f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "02_Systems/Data Systems/Storage and Retrieval/Column-Oriented Storage/Column-Oriented Storage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Column-Oriented Storage"
             }
           }
         ],
@@ -305,13 +309,15 @@
   },
   "active": "c3376b287b82495f",
   "lastOpenFiles": [
+    "02_Systems/Data Systems/Storage and Retrieval/Column-Oriented Storage/Compression in Column Stores.md",
     "02_Systems/Data Systems/Storage and Retrieval/Column-Oriented Storage/Column Encoding.md",
     "02_Systems/Data Systems/Storage and Retrieval/Column-Oriented Storage/Column-Oriented Storage.md",
-    "02_Systems/Data Systems/Storage and Retrieval/Column-Oriented Storage/Compression in Column Stores.md",
     "02_Systems/Data Systems/Storage and Retrieval/Column-Oriented Storage/Data Cubes.md",
     "02_Systems/Data Systems/Storage and Retrieval/Column-Oriented Storage/Data Skipping (Zone Maps).md",
-    "02_Systems/Data Systems/Storage and Retrieval/Column-Oriented Storage/Vectorized Execution.md",
     "02_Systems/Data Systems/Storage and Retrieval/Column-Oriented Storage/Materialized Views.md",
+    "02_Systems/Data Systems/Encoding and Evolution",
+    "02_Systems/Data Systems/Encoding and Evolution.md",
+    "02_Systems/Data Systems/Storage and Retrieval/Column-Oriented Storage/Vectorized Execution.md",
     "02_Systems/Data Systems/Data Modeling/Schemas/Schema-on-Write.md",
     "02_Systems/Data Systems/Data Modeling/Schemas/Fact vs Dimension Tables.md",
     "02_Systems/Data Systems/Data Modeling/Schemas/Snowflake Schema.md",
@@ -337,15 +343,12 @@
     "02_Systems/Data Systems/Storage and Retrieval/Indexes/Hash Index.md",
     "Pictures/pic_hash_indexes.png",
     "02_Systems/Data Systems/Storage and Retrieval/B-Trees/B+ Tree.md",
-    "02_Systems/Data Systems/Storage and Retrieval/Indexes/Dense Index.md",
-    "02_Systems/Data Systems/Storage and Retrieval/Indexes/Secondary Index.md",
     "02_Systems/Data Systems/Storage and Retrieval/Indexes",
     "02_Systems/Data Systems/Storage and Retrieval/B-Trees",
     "02_Systems/Data Systems/Storage and Retrieval/Log Structured Storage",
     "02_Systems/Data Systems/Storage and Retrieval/Storage Engines",
     "02_Systems/Data Systems/DDIA Reading Notes",
     "02_Systems/Data Systems/Data Modeling/Schemas",
-    "02_Systems/Data Systems/Query Processing",
     "Untitled.canvas",
     "Pictures/pic_interconnected_resume_example.png",
     "Pictures/pic_outlier_example.png",

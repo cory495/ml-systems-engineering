@@ -108,6 +108,9 @@ This allows reading only relevant columns.
 [[Schema-on-Read]]
 [[Compression in Column Stores]]
 [[Vectorized Execution]]
+[[Data Cubes]]
+[[Data Skipping (Zone Maps)]]
+[[Column Encoding]]
 
 ---
 
