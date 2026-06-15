@@ -12,7 +12,7 @@
 - down:: [[Machine Learning Systems]]
 - down:: [[LLM Systems]]
 - down:: [[GPU Systems]]
-- down:: [[10_Architecture/Architecture|Architecture]]
+- down:: [[09_Architecture_Case_Studies/Architecture|Architecture]]
 - down:: [[System Design]]
 - down:: [[Papers]]
 - down:: [[Projects]]

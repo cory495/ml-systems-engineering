@@ -99,7 +99,7 @@ Examples:
 - down:: [[Merge Two Sorted Linked Lists]]
 - down:: [[Palindrome Linked List]]
 - down:: [[Remove Linked List Elements]]
-- down:: [[Remove Duplicates from Sorted Array]]
+- down:: [[13_Interview_Prep/Leetcodes/Linked Lists/Remove Duplicates from Sorted Array]]
 - down:: [[Middle of the Linked List]]
 ### Medium
 - down:: [[Remove Nth Node from List]]

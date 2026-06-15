@@ -50,7 +50,7 @@ Design of full-scale systems and products from first principles, focusing on ext
 
 ## Connected Areas
 
-- [[Architecture]]
+- [[09_Architecture_Case_Studies/Architecture]]
     
 - [[Distributed Systems]]
     
