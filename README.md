@@ -24,21 +24,19 @@ The goal is to develop the depth of knowledge required for advanced ML infrastru
 ## Repository Structure
 
 ```text
-_publish/
 01_Mathematics/
 02_Systems/
-03_Databases/
-04_Distributed_Systems/
-05_Machine_Learning/
-06_Deep_Learning/
-07_ML_Systems/
-08_LLM_Systems/
-09_GPU_Systems/
-10_Architecture/
-11_System_Design/
-12_Papers/
-13_Projects/
-14_Interview_Questions/
+03_Machine_Learning/
+04_Deep_Learning/
+05_ML_Systems/
+06_LLM_Systems/
+07_GPU_Systems/
+08_Signal_Processing/
+9_Architecture_Case_Studies/
+10_System_Design/
+11_Papers/
+12_Projects/
+13_Interview_Questions/
 99_Dashboard/
 Exaclidraw/
 Pictures/
