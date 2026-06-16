@@ -100,6 +100,7 @@ Examples:
 - down:: [[Maximum Depth of Binary Tree]]
 - down:: [[Same Binary Tree]]
 - down:: [[Subtree of Another Tree]]
+- down:: [[Diameter of a Binary Tree]]
 ### Medium
 - down:: [[Count Good Nodes in Binary Tree]]
 - down:: [[Kth Smallest Integer in BST]]
