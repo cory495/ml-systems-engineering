@@ -309,8 +309,9 @@
   },
   "active": "c3376b287b82495f",
   "lastOpenFiles": [
-    "13_Interview_Prep/Leetcodes/Trees/Diameter of a Binary Tree.md",
+    "13_Interview_Prep/Leetcodes/Trees/Binary Tree Right Side View.md",
     "13_Interview_Prep/Leetcodes/Trees/Trees.md",
+    "13_Interview_Prep/Leetcodes/Trees/Diameter of a Binary Tree.md",
     "13_Interview_Prep/Leetcodes/Trees/Binary Tree Level Order Traversal.md",
     "13_Interview_Prep/Leetcodes/Sorting and Searching/Sorting and Searching.md",
     "13_Interview_Prep/Leetcodes/Sorting and Searching/Time Based Key-Value Store.md",
@@ -335,7 +336,6 @@
     "02_Systems/Data Systems/Data Modeling/Schemas/Snowflake Schema.md",
     "02_Systems/Data Systems/Data Modeling/Schemas/Star Schema.md",
     "02_Systems/Data Systems/Data Modeling/Schemas/Schema Design.md",
-    "02_Systems/Data Systems/Data Modeling/Query Processing/Aggregate-Oriented Design.md",
     "02_Systems/Data Systems/Storage and Retrieval/Storage Engines/Untitled",
     "02_Systems/Data Systems/Storage and Retrieval/Column-Oriented Storage",
     "02_Systems/Data Systems/Storage and Retrieval/Schemas",
