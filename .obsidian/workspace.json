@@ -81,10 +81,14 @@
             "id": "c3376b287b82495f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "13_Interview_Prep/Leetcodes/Sorting and Searching/Sorting and Searching.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sorting and Searching"
             }
           }
         ],
@@ -303,13 +307,18 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "3a7c9ec5185534cf",
+  "active": "c3376b287b82495f",
   "lastOpenFiles": [
-    "13_Interview_Prep/Leetcodes/Valid Binary Search Tree.md",
-    "13_Interview_Prep/Leetcodes/Time Based Key-Value Store.md",
-    "13_Interview_Prep/Leetcodes/Kth Smallest Integer in BST.md",
-    "13_Interview_Prep/Leetcodes/Koko Eating Bananas.md",
-    "13_Interview_Prep/Leetcodes/Count Good Nodes in Binary Tree.md",
+    "13_Interview_Prep/Leetcodes/Sorting and Searching/Time Based Key-Value Store.md",
+    "13_Interview_Prep/Leetcodes/Sorting and Searching/Koko Eating Bananas.md",
+    "13_Interview_Prep/Leetcodes/Sorting and Searching/Sorting and Searching.md",
+    "13_Interview_Prep/Leetcodes/Sorting and Searching/Binary Search.md",
+    "13_Interview_Prep/Leetcodes/Trees/Validate Binary Search Tree.md",
+    "13_Interview_Prep/Leetcodes/Trees/Trees.md",
+    "13_Interview_Prep/Leetcodes/Trees/Kth Smallest Integer in BST.md",
+    "13_Interview_Prep/Leetcodes/Trees/Count Good Nodes in Binary Tree.md",
+    "13_Interview_Prep/Leetcodes/LeetCode Patterns.md",
+    "13_Interview_Prep/Leetcodes/Trees/Balanced Binary Tree.md",
     "02_Systems/Data Systems/Storage and Retrieval/Column-Oriented Storage/Column-Oriented Storage.md",
     "02_Systems/Data Systems/Storage and Retrieval/Column-Oriented Storage/Compression in Column Stores.md",
     "02_Systems/Data Systems/Storage and Retrieval/Column-Oriented Storage/Column Encoding.md",
@@ -327,17 +336,12 @@
     "02_Systems/Data Systems/Data Modeling/Query Processing/Aggregate-Oriented Design.md",
     "02_Systems/Data Systems/Data Modeling/Query Processing/Joins.md",
     "02_Systems/Data Systems/Storage and Retrieval/Storage Engines/OLTP vs OLAP.md",
-    "02_Systems/Data Systems/Storage and Retrieval/Storage Engines/Data Warehouse.md",
-    "02_Systems/Data Systems/Storage and Retrieval/Storage Engines/Database Internals.md",
     "02_Systems/Data Systems/Storage and Retrieval/Storage Engines/Untitled",
     "02_Systems/Data Systems/Storage and Retrieval/Column-Oriented Storage",
     "02_Systems/Data Systems/Storage and Retrieval/Schemas",
     "Pictures/pic_data_warehouse.png",
-    "02_Systems/Data Systems/Storage and Retrieval/Indexes/Multi-Column Index.md",
     "Pictures/pic_ssttable.png",
-    "02_Systems/Data Systems/Storage and Retrieval/B-Trees/B-Tree.md",
     "Pictures/pic_btree.png",
-    "02_Systems/Data Systems/Storage and Retrieval/Log Structured Storage/SSTable.md",
     "Pictures/pic_append_only_log.png",
     "Pictures/pic_hash_indexes.png",
     "02_Systems/Data Systems/Storage and Retrieval/Indexes",

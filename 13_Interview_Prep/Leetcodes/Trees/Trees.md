@@ -84,17 +84,6 @@ Examples:
 
 ---
 
-## Common Interview Problems
-- Maximum Depth of Binary Tree
-- Same Tree
-- Invert Binary Tree
-- Diameter of Binary Tree
-- Balanced Binary Tree
-- Binary Tree Level Order Traversal
-- Validate Binary Search Tree
-
----
-
 ## Complexity Cheat Sheet
 - DFS: O(n)
 - BFS: O(n)
@@ -111,3 +100,7 @@ Examples:
 - down:: [[Maximum Depth of Binary Tree]]
 - down:: [[Same Binary Tree]]
 - down:: [[Subtree of Another Tree]]
+### Medium
+- down:: [[Count Good Nodes in Binary Tree]]
+- down:: [[Kth Smallest Integer in BST]]
+- down:: [[Validate Binary Search Tree]]

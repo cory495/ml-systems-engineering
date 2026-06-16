@@ -68,15 +68,6 @@ Examples:
 
 ---
 
-## Common Interview Problems
-- Binary Search
-- Search in Rotated Sorted Array
-- Find Minimum in Rotated Sorted Array
-- Kth Largest Element in an Array
-- Median of Two Sorted Arrays
-
----
-
 ## Complexity Cheat Sheet
 
 ### Searching
@@ -101,3 +92,5 @@ Examples:
 - down:: [[Search a 2D Matrix]]
 - down:: [[Find Minimum in Rotated Sorted Array]]
 - down:: [[Search in Rotated Sorted Array]]
+- down:: [[Koko Eating Bananas]]
+- down:: [[Time Based Key-Value Store]]
