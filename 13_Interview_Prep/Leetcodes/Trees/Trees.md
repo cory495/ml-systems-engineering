@@ -107,3 +107,7 @@ Examples:
 - down:: [[Validate Binary Search Tree]]
 - down:: [[Binary Tree Level Order Traversal]]
 - down:: [[Binary Tree Right Side View]]
+- down:: [[Lowest Common Ancestor in Binary Search Tree]]
+- down:: [[Construct Binary Tree from Preorder and Inorder Traversal]]
+### Hard
+- down:: [[Binary Tree Path Sum]]
