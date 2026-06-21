@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13_Interview_Prep/Leetcodes/Heaps and Priority Queues/Task Scheduler.md",
+                "file": "13_Interview_Prep/Leetcodes/Heaps and Priority Queues/Design Twitter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task Scheduler"
+              "title": "Design Twitter"
             }
           }
         ],
@@ -309,8 +309,13 @@
   },
   "active": "c3376b287b82495f",
   "lastOpenFiles": [
-    "13_Interview_Prep/Leetcodes/Greedy Algorithms/Jump Game.md",
     "13_Interview_Prep/Leetcodes/Heaps and Priority Queues/Task Scheduler.md",
+    "13_Interview_Prep/Leetcodes/Heaps and Priority Queues/Design Twitter.md",
+    "13_Interview_Prep/Leetcodes/Sum of All Subsets XOR Total.md",
+    "13_Interview_Prep/Leetcodes/Subsets.md",
+    "13_Interview_Prep/Leetcodes/Letter Combinations of a Phone Number.md",
+    "13_Interview_Prep/Leetcodes/Combination Sum.md",
+    "13_Interview_Prep/Leetcodes/Greedy Algorithms/Jump Game.md",
     "13_Interview_Prep/Leetcodes/Greedy Algorithms",
     "13_Interview_Prep/Leetcodes/Trees/Trees.md",
     "13_Interview_Prep/Leetcodes/Trees/Serialize and Deserialize Binary Tree.md",
@@ -331,11 +336,6 @@
     "13_Interview_Prep/Leetcodes/Trees/Count Good Nodes in Binary Tree.md",
     "13_Interview_Prep/Leetcodes/LeetCode Patterns.md",
     "13_Interview_Prep/Leetcodes/Trees/Balanced Binary Tree.md",
-    "02_Systems/Data Systems/Storage and Retrieval/Column-Oriented Storage/Column-Oriented Storage.md",
-    "02_Systems/Data Systems/Storage and Retrieval/Column-Oriented Storage/Compression in Column Stores.md",
-    "02_Systems/Data Systems/Storage and Retrieval/Column-Oriented Storage/Column Encoding.md",
-    "02_Systems/Data Systems/Storage and Retrieval/Column-Oriented Storage/Data Cubes.md",
-    "02_Systems/Data Systems/Storage and Retrieval/Column-Oriented Storage/Data Skipping (Zone Maps).md",
     "02_Systems/Data Systems/Encoding and Evolution",
     "02_Systems/Data Systems/Storage and Retrieval/Storage Engines/Untitled",
     "02_Systems/Data Systems/Storage and Retrieval/Column-Oriented Storage",
