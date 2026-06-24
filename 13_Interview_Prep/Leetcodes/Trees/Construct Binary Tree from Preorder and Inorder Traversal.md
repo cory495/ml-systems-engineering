@@ -4,6 +4,8 @@ Topics: Trees
 ---
 # Construct Binary Tree from Preorder and Inorder Traversal
 
+This is a part of [[LeetCode Patterns]].
+
 You are given two integer arrays `preorder` and `inorder`.
 
 - `preorder` is the preorder traversal of a binary tree

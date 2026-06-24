@@ -4,6 +4,8 @@ Topics: Trees
 ---
 # Binary Tree Level Order Traversal
 
+This is a part of [[LeetCode Patterns]].
+
 Given a binary tree `root`, return the level order traversal of it as a nested list, where each sublist contains the values of nodes at a particular level in the tree, from left to right.
 
 **Example 1:**

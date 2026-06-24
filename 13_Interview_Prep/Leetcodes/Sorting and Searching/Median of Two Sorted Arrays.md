@@ -4,6 +4,8 @@ Topics: Sorting
 ---
 # Median of Two Sorted Arrays
 
+This is a part of [[LeetCode Patterns]].
+
 You are given two integer arrays `nums1` and `nums2` of size `m` and `n` respectively, where each is sorted in ascending order. Return the [median](https://en.wikipedia.org/wiki/Median) value among all elements of the two arrays.
 
 Your solution must run in O(log(m+n))O(log(m+n)) time.

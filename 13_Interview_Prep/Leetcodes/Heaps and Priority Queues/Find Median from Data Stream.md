@@ -4,6 +4,8 @@ Topics: Heaps
 ---
 # Find Median From Data Stream
 
+This is a part of [[LeetCode Patterns]].
+
 The **[median](https://en.wikipedia.org/wiki/Median)** is the middle value in a sorted list of integers. For lists of _even_ length, there is no middle value, so the median is the [mean](https://en.wikipedia.org/wiki/Mean) of the two middle values.
 
 For example:

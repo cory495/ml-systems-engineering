@@ -4,6 +4,8 @@ Topics: Trees
 ---
 # Binary Tree Maximum Path Sum
 
+This is a part of [[LeetCode Patterns]].
+
 Given the `root` of a _non-empty_ binary tree, return the maximum **path sum** of any _non-empty_ path.
 
 A **path** in a binary tree is a sequence of nodes where each pair of adjacent nodes has an edge connecting them. A node can _not_ appear in the sequence more than once. The path does _not_ necessarily need to include the root.

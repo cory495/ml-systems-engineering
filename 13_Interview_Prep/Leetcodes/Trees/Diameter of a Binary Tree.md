@@ -4,6 +4,8 @@ Topics: Trees
 ---
 # Diameter of Binary Tree
 
+This is a part of [[LeetCode Patterns]].
+
 The **diameter** of a binary tree is defined as the **length** of the longest path between _any two nodes within the tree_. The path does not necessarily have to pass through the root.
 
 The **length** of a path between two nodes in a binary tree is the number of edges between the nodes. Note that the path can _not_ include the same node twice.

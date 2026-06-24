@@ -4,6 +4,8 @@ Topics: Trees
 ---
 # Binary Tree Right Side View
 
+This is a part of [[LeetCode Patterns]].
+
 You are given the `root` of a binary tree. Return only the values of the nodes that are visible from the right side of the tree, ordered from top to bottom.
 
 **Example 1:**

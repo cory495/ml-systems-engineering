@@ -1,0 +1,58 @@
+---
+Difficulty: Medium
+Topics: Greedy
+---
+
+# Jump Game II
+
+This is a part of [[LeetCode Patterns]].
+
+You are given an array of integers `nums`, where `nums[i]` represents the maximum length of a jump towards the right from index `i`. For example, if you are at `nums[i]`, you can jump to any index `i + j` where:
+
+- `j <= nums[i]`
+- `i + j < nums.length`
+
+You are initially positioned at `nums[0]`.
+
+Return the minimum number of jumps to reach the last position in the array (index `nums.length - 1`). You may assume there is always a valid answer.
+
+**Example 1:**
+
+```java
+Input: nums = [2,4,1,1,1,1]
+
+Output: 2
+```
+
+Explanation: Jump from index `0` to index `1`, then jump from index `1` to the last index.
+
+**Example 2:**
+
+```java
+Input: nums = [2,1,2,1,0]
+
+Output: 2
+```
+
+**Constraints:**
+
+- `1 <= nums.length <= 1000`
+- `0 <= nums[i] <= 100`
+
+**Solutions:**
+
+```python
+class Solution:
+    def jump(self, nums: List[int]) -> int:
+        cur_idx = 0
+        jump_count = 0
+        cur_best_next = 0
+
+        for i in range(1, len(nums)):
+            if cur_best_next == cur_idx or nums[i] + i > nums[cur_best_next] + cur_best_next:
+                cur_best_next = i
+            if i >= nums[cur_idx] + cur_idx or i == len(nums)-1:
+                cur_idx = cur_best_next
+                jump_count += 1
+        return jump_count
+```

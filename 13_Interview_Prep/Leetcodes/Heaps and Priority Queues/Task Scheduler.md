@@ -4,6 +4,8 @@ Topics: Heaps
 ---
 # Task Scheduler
 
+This is a part of [[LeetCode Patterns]].
+
 You are given an array of CPU tasks `tasks`, where `tasks[i]` is an uppercase english character from `A` to `Z`. You are also given an integer `n`.
 
 Each CPU cycle allows the completion of a single task, and tasks may be completed in any order.
