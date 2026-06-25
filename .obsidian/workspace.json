@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13_Interview_Prep/Leetcodes/Gas Station.md",
+                "file": "13_Interview_Prep/Leetcodes/Hand of Straights.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gas Station"
+              "title": "Hand of Straights"
             }
           }
         ],
@@ -335,10 +335,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "3a7c9ec5185534cf",
+  "active": "2596dba8c015305f",
   "lastOpenFiles": [
-    "13_Interview_Prep/Leetcodes/Palindromic Substrings.md",
     "13_Interview_Prep/Leetcodes/Gas Station.md",
+    "13_Interview_Prep/Leetcodes/Hand of Straights.md",
+    "13_Interview_Prep/Leetcodes/Palindromic Substrings.md",
     "13_Interview_Prep/Leetcodes/Palindrome Partitioning.md",
     "13_Interview_Prep/Leetcodes/Rotate Image.md",
     "13_Interview_Prep/Leetcodes/Guess Number Higher or Lower.md",
@@ -364,7 +365,6 @@
     "13_Interview_Prep/Leetcodes/Backtracing/Combination Sum.md",
     "13_Interview_Prep/Leetcodes/Backtracing",
     "13_Interview_Prep/Leetcodes/Heaps and Priority Queues/Task Scheduler.md",
-    "13_Interview_Prep/Leetcodes/Sorting and Searching/Median of Two Sorted Arrays.md",
     "13_Interview_Prep/Leetcodes/Palindrome Partitioning",
     "13_Interview_Prep/Leetcodes/Greedy Algorithms",
     "02_Systems/Data Systems/Encoding and Evolution",
