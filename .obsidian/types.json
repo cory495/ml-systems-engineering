@@ -51,6 +51,8 @@
     "TQ_show_urgency": "checkbox",
     "Status": "text",
     "Created": "date",
-    "Updated": "date"
+    "Updated": "date",
+    "started": "date",
+    "finished": "date"
   }
 }

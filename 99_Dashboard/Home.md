@@ -3,73 +3,312 @@ Created: 2026-06-01
 Updated: 2026-06-26
 tags:
   - 
+Type: Dashboard
 ---
-# ML Systems Dashboard
+# Home
 
-## Core Domains
+> *"Build something every day. Learn something every day."*
 
-### Main Topics
-- down:: [[Mathematics]]
-- down:: [[Systems]]
-- down:: [[Databases]]
-- down:: [[Distributed Systems]]
-- down:: [[Machine Learning]]
-- down:: [[Deep Learning]]
-- down:: [[Machine Learning Systems]]
-- down:: [[LLM Systems]]
-- down:: [[GPU Systems]]
-- down:: [[09_Architecture_Case_Studies/Architecture|Architecture]]
-- down:: [[System Design]]
-- down:: [[Papers]]
-- down:: [[Projects]]
-- down:: [[Interview Questions]]
-- down:: [[References]]
-### Distributed Systems
+---
+
+# Mission
+
+**Long-Term Goal**
+
+> Become a ML Engineer
+
+Current Focus
+
+- ML Systems
+- LLM Systems
+- Signal Processing
+- Physical AI
+
+---
+
+# Current Semester
+
+## Semester Goals
+
+- [ ] Finish current coursework
+- [ ] Read 30 papers
+- [ ] Complete one major portfolio project
+
+---
+
+# Currently Reading
+
+## Books
+
 ```dataview
-LIST  
-FROM "04_Distributed_Systems"  
-SORT file.name asc
+TABLE
+status AS "Status",
+current_page + " / " + pages AS "Progress"
+WHERE type = "book"
+AND status = "Reading"
+SORT priority DESC
 ```
-### Databases
+
+---
+
+## Papers
+
 ```dataview
-LIST FROM "03_Databases"  
-SORT file.name ASC
+TABLE
+category,
+year,
+status
+FROM "11_Papers"
+WHERE type = "paper"
+AND status = "Reading"
+SORT priority DESC
 ```
-### Machine Learning Systems
+
+---
+
+## Courses
+
 ```dataview
-LIST FROM "07_ML_Systems"
-SORT file.name ASC
+TABLE
+semester,
+status
+WHERE type = "course"
+AND status != "Completed"
 ```
-### LLM Systems
+
+---
+
+# Active Projects
+
 ```dataview
-LIST FROM "08_LLM_Systems"
-SORT file.name ASC
+TABLE
+completion + "%" AS "Progress",
+priority,
+status
+FROM "12_Projects"
+WHERE type = "project"
+AND status != "Completed"
+SORT priority DESC
 ```
-## Notes
-### Recently Updated Notes
+
+---
+
+# Active Research
+
 ```dataview
-TABLE file.mtime AS "Last Updated"
+TABLE
+conference,
+deadline,
+status
+FROM "14_Research"
+WHERE type = "research"
+SORT deadline ASC
+```
+
+---
+
+# Upcoming Deadlines
+
+```dataview
+TABLE deadline
+WHERE deadline
+SORT deadline ASC
+LIMIT 10
+```
+
+---
+
+# Recently Updated
+
+```dataview
+TABLE file.mtime AS "Modified"
 FROM ""
 SORT file.mtime DESC
 LIMIT 15
 ```
+
+---
+
+# Progress
+
+## Books
+
+```dataview
+TABLE WITHOUT ID
+length(rows) AS "Reading"
+FROM ""
+WHERE type = "book"
+AND status = "Reading"
+GROUP BY true
+```
+
 ## Papers
+
 ```dataview
-LIST FROM "12_Papers"
-SORT file.mtime DESC
+TABLE WITHOUT ID
+length(rows) AS "Completed"
+FROM "11_Papers"
+WHERE status = "Completed"
+GROUP BY true
 ```
+
 ## Projects
+
 ```dataview
-LIST FROM "13_Projects"
+TABLE WITHOUT ID
+length(rows) AS "Active"
+FROM "12_Projects"
+WHERE status = "Active"
+GROUP BY true
+```
+
+---
+
+# Knowledge
+
+## Mathematics
+
+```dataview
+LIST
+FROM "01_Mathematics"
 SORT file.name ASC
 ```
-## Architecture
+
+---
+
+## Systems
+
 ```dataview
-LIST FROM "10_Architecture"
+LIST
+FROM "02_Systems"
 SORT file.name ASC
 ```
-## Systems Design
+
+---
+
+## Machine Learning
+
 ```dataview
-LIST FROM "11_System_Design"
+LIST
+FROM "03_Machine_Learning"
 SORT file.name ASC
 ```
+
+---
+
+## Deep Learning
+
+```dataview
+LIST
+FROM "04_Deep_Learning"
+SORT file.name ASC
+```
+
+---
+
+## ML Systems
+
+```dataview
+LIST
+FROM "05_ML_Systems"
+SORT file.name ASC
+```
+
+---
+
+## LLM Systems
+
+```dataview
+LIST
+FROM "06_LLM_Systems"
+SORT file.name ASC
+```
+
+---
+
+## GPU Systems
+
+```dataview
+LIST
+FROM "07_GPU_Systems"
+SORT file.name ASC
+```
+
+---
+
+## Signal Processing
+
+```dataview
+LIST
+FROM "08_Signal_Processing"
+SORT file.name ASC
+```
+
+---
+
+## Architecture Case Studies
+
+```dataview
+LIST
+FROM "09_Architecture_Case_Studies"
+SORT file.name ASC
+```
+
+---
+
+## System Design
+
+```dataview
+LIST
+FROM "10_System_Design"
+SORT file.name ASC
+```
+
+---
+
+# Papers
+
+```dataview
+LIST
+FROM "11_Papers"
+SORT file.name ASC
+```
+
+---
+
+# Projects
+
+```dataview
+LIST
+FROM "12_Projects"
+SORT file.name ASC
+```
+
+---
+
+# Interview Prep
+
+```dataview
+LIST
+FROM "13_Interview_Prep"
+SORT file.name ASC
+```
+
+---
+
+# Research Ideas
+
+- 
+
+- 
+
+- 
+
+---
+
+# Quick Links
+
+- [[00_Roadmap]]
+- [[14_Research]]
+- [[15_Career]]
+- [[99_Dashboard/Home]]

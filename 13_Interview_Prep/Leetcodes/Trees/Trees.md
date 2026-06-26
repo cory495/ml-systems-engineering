@@ -109,6 +109,11 @@ Examples:
 - down:: [[Same Binary Tree]]
 - down:: [[Subtree of Another Tree]]
 - down:: [[Diameter of a Binary Tree]]
+- down:: [[Binary Tree Inorder Traversal]]
+- down:: [[Balanced Binary Tree]]
+- down:: [[Binary Tree Postorder Traversal]]
+- down:: [[Binary Tree Preorder Traversal]]
+- down:: [[Binary Tree Inorder Traversal]]
 ### Medium
 - down:: [[Count Good Nodes in Binary Tree]]
 - down:: [[Kth Smallest Integer in BST]]
