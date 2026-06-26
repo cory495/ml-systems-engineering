@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13_Interview_Prep/Leetcodes/Merge Triplets to Form Targets.md",
+                "file": "99_Dashboard/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Merge Triplets to Form Targets"
+              "title": "Home"
             }
           }
         ],
@@ -337,8 +337,15 @@
   },
   "active": "2596dba8c015305f",
   "lastOpenFiles": [
-    "13_Interview_Prep/Leetcodes/Hand of Straights.md",
+    "00_Roadmap/Untitled.md",
+    "99_Dashboard/Home.md",
+    "16_Literature_Maps",
+    "15_Career",
+    "14_Research",
+    "00_Roadmap",
+    "99_Dashboard/References.md",
     "13_Interview_Prep/Leetcodes/Merge Triplets to Form Targets.md",
+    "13_Interview_Prep/Leetcodes/Hand of Straights.md",
     "13_Interview_Prep/Leetcodes/Gas Station.md",
     "13_Interview_Prep/Leetcodes/Palindromic Substrings.md",
     "13_Interview_Prep/Leetcodes/Palindrome Partitioning.md",
@@ -361,23 +368,16 @@
     "13_Interview_Prep/Leetcodes/Backtracing/Permutations.md",
     "13_Interview_Prep/Leetcodes/Backtracing/Letter Combinations of a Phone Number.md",
     "13_Interview_Prep/Leetcodes/LeetCode Patterns.md",
-    "13_Interview_Prep/Leetcodes/Backtracing/Generate Parentheses.md",
-    "13_Interview_Prep/Leetcodes/Backtracing/Combination Sum II.md",
-    "13_Interview_Prep/Leetcodes/Backtracing/Combination Sum.md",
     "13_Interview_Prep/Leetcodes/Backtracing",
     "13_Interview_Prep/Leetcodes/Palindrome Partitioning",
     "13_Interview_Prep/Leetcodes/Greedy Algorithms",
     "02_Systems/Data Systems/Encoding and Evolution",
     "02_Systems/Data Systems/Storage and Retrieval/Storage Engines/Untitled",
-    "02_Systems/Data Systems/Storage and Retrieval/Column-Oriented Storage",
-    "02_Systems/Data Systems/Storage and Retrieval/Schemas",
     "Pictures/pic_data_warehouse.png",
     "Pictures/pic_ssttable.png",
     "Pictures/pic_btree.png",
     "Pictures/pic_append_only_log.png",
     "Pictures/pic_hash_indexes.png",
-    "02_Systems/Data Systems/Storage and Retrieval/Indexes",
-    "02_Systems/Data Systems/Storage and Retrieval/B-Trees",
     "Untitled.canvas",
     "Pictures/pic_interconnected_resume_example.png",
     "Pictures/pic_outlier_example.png",
