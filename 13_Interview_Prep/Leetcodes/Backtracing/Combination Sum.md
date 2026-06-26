@@ -1,6 +1,12 @@
 ---
 Difficulty: Medium
 Topics: Backtracing
+Created: 2026-06-01
+Updated: 2026-06-26
+tags:
+  - interview
+  - programming
+Type: Interview
 ---
 # Combination Sum
 

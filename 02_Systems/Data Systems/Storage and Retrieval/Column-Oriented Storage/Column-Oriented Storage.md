@@ -1,3 +1,12 @@
+---
+Created: 2026-06-01
+Updated: 2026-06-26
+tags:
+  - systems
+  - programming
+  - databases
+Type: Notes
+---
 # Column-Oriented Storage
 
 Date: 2026-06-15

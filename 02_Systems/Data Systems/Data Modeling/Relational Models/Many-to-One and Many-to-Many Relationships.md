@@ -1,3 +1,12 @@
+---
+Created: 2026-06-01
+Updated: 2026-06-26
+tags:
+  - systems
+  - programming
+  - databases
+Type: Notes
+---
 # Many-to-One and Many-to-Many Relationships
 
 Date: 2026-06-07

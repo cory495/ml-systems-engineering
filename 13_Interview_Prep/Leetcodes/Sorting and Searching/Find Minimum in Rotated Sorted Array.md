@@ -1,6 +1,12 @@
 ---
 Difficulty: Medium
 Topics: Sorting
+Created: 2026-06-01
+Updated: 2026-06-26
+tags:
+  - interview
+  - programming
+Type: Interview
 ---
 # Find Minimum in Rotated Sorted Array
 

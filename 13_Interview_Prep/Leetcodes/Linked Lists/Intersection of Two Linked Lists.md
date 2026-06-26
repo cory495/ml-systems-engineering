@@ -1,3 +1,11 @@
+---
+Created: 2026-06-01
+Updated: 2026-06-26
+tags:
+  - interview
+  - programming
+Type: Interview
+---
 # Intersection of Two Linked Lists
 
 This is a part of [[LeetCode Patterns]].

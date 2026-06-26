@@ -1,3 +1,10 @@
+---
+Created: 2026-06-01
+Updated: 2026-06-26
+tags:
+  - interview
+Type: Interview
+---
 # Interview Questions
 
 ## Interview preparation system.

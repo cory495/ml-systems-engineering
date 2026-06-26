@@ -1,6 +1,12 @@
 ---
 Difficulty: Easy
 Topics: Two Pointers
+Created: 2026-06-01
+Updated: 2026-06-26
+tags:
+  - interview
+  - programming
+Type: Interview
 ---
 # Minimum Recolors to Get K Consecutive Black Blocks
 

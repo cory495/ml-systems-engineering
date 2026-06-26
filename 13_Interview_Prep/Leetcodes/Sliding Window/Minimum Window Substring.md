@@ -1,6 +1,12 @@
 ---
 Difficulty: Hard
 Topics: Sliding Window
+Created: 2026-06-01
+Updated: 2026-06-26
+tags:
+  - interview
+  - programming
+Type: Interview
 ---
 # Minimum Window Substring
 

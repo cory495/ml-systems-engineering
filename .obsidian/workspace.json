@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_Dashboard/Home.md",
+                "file": "00_Roadmap/11_Monthly_Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "11_Monthly_Review"
             }
           }
         ],
@@ -310,6 +310,16 @@
               "icon": "lucide-ghost",
               "title": "bc-matrix-view"
             }
+          },
+          {
+            "id": "3f063ca991e7fcb6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 9
@@ -332,47 +342,49 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "quartz-syncer:Quartz Syncer publication center": false,
-      "juggl:Juggl global graph": false
+      "juggl:Juggl global graph": false,
+      "obsidian-kanban:Create new board": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "2596dba8c015305f",
   "lastOpenFiles": [
-    "00_Roadmap/Untitled.md",
+    "00_Roadmap/09_Career_Preparation.md",
+    "00_Roadmap/08_Internships.md",
+    "00_Roadmap/07_Conferences.md",
+    "00_Roadmap/05_Projects.md",
+    "00_Roadmap/03_Textbooks.md",
+    "00_Roadmap/00_Roadmap.md",
+    "00_Roadmap/12_Annual_Goals.md",
+    "01_Mathematics/Mathematics.md",
+    "00_Roadmap/Graduation Checklist.md",
+    "00_Roadmap/11_Monthly_Review.md",
+    "00_Roadmap/10_Weekly_Routine.md",
+    "00_Roadmap/06_Publications.md",
+    "00_Roadmap/04_Courses.md",
+    "Untitled.md",
+    "00_Roadmap/02_Reading_Curriculum",
+    "00_Roadmap/01_Semester_Plans",
     "99_Dashboard/Home.md",
+    "99_Dashboard/References.md",
+    "13_Interview_Prep/Leetcodes/1D Dynamic Programming/House Robber II.md",
+    "13_Interview_Prep/Interview Questions.md",
+    "11_Papers/Attention Is All You Need.md",
+    "03_Machine_Learning/Machine Learning.md",
+    "02_Systems/Data Systems/Data Systems.md",
+    "02_Systems/Systems.md",
+    "04_Deep_Learning/Deep Learning.md",
+    "13_Interview_Prep/Leetcodes/Arrays and Hashing/Append Characters to String to Make Subsequence.md",
+    "13_Interview_Prep/Leetcodes/1D Dynamic Programming/Climbing Stairs.md",
+    "Templates/Interview Templates/behavioral_interview_question.md",
     "16_Literature_Maps",
     "15_Career",
     "14_Research",
     "00_Roadmap",
-    "99_Dashboard/References.md",
-    "13_Interview_Prep/Leetcodes/Merge Triplets to Form Targets.md",
-    "13_Interview_Prep/Leetcodes/Hand of Straights.md",
-    "13_Interview_Prep/Leetcodes/Gas Station.md",
-    "13_Interview_Prep/Leetcodes/Palindromic Substrings.md",
-    "13_Interview_Prep/Leetcodes/Palindrome Partitioning.md",
-    "13_Interview_Prep/Leetcodes/Rotate Image.md",
-    "13_Interview_Prep/Leetcodes/Guess Number Higher or Lower.md",
-    "13_Interview_Prep/Leetcodes/Longest Palindromic Substring.md",
-    "13_Interview_Prep/Leetcodes/Longest Increasing Subsequence.md",
-    "13_Interview_Prep/Leetcodes/Binary Tree Preorder Traversal.md",
-    "13_Interview_Prep/Leetcodes/Binary Tree Postorder Traversal.md",
-    "13_Interview_Prep/Leetcodes/Binary Tree Inorder Traversal.md",
-    "13_Interview_Prep/Leetcodes/Heaps and Priority Queues/Find Median from Data Stream.md",
-    "13_Interview_Prep/Leetcodes/Greedy Algorithms/Jump Game.md",
-    "13_Interview_Prep/Leetcodes/Greedy Algorithms/Maximum Subarray.md",
-    "13_Interview_Prep/Leetcodes/Greedy Algorithms/Jump Game II.md",
-    "13_Interview_Prep/Leetcodes/Matrices/Word Search.md",
     "13_Interview_Prep/Leetcodes/Matrices",
-    "13_Interview_Prep/Leetcodes/Math/Sum of All Subsets XOR Total.md",
-    "13_Interview_Prep/Leetcodes/Backtracing/Subsets II.md",
-    "13_Interview_Prep/Leetcodes/Backtracing/Subsets.md",
-    "13_Interview_Prep/Leetcodes/Backtracing/Permutations.md",
-    "13_Interview_Prep/Leetcodes/Backtracing/Letter Combinations of a Phone Number.md",
-    "13_Interview_Prep/Leetcodes/LeetCode Patterns.md",
     "13_Interview_Prep/Leetcodes/Backtracing",
     "13_Interview_Prep/Leetcodes/Palindrome Partitioning",
     "13_Interview_Prep/Leetcodes/Greedy Algorithms",
-    "02_Systems/Data Systems/Encoding and Evolution",
-    "02_Systems/Data Systems/Storage and Retrieval/Storage Engines/Untitled",
     "Pictures/pic_data_warehouse.png",
     "Pictures/pic_ssttable.png",
     "Pictures/pic_btree.png",

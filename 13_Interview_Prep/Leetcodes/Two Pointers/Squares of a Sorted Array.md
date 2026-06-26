@@ -1,6 +1,12 @@
 ---
 Topics: Two Pointers
 Difficulty: Easy
+Created: 2026-06-01
+Updated: 2026-06-26
+tags:
+  - interview
+  - programming
+Type: Interview
 ---
 # Squares of a Sorted Array
 

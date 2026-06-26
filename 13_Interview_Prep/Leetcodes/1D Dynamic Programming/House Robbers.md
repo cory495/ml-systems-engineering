@@ -1,6 +1,12 @@
 ---
 Difficulty: Medium
 Topics: 1D Dynamic Programming
+Created: 2026-06-01
+Updated: 2026-06-26
+tags:
+  - interview
+  - programming
+Type: Interview
 ---
 # House Robbers
 

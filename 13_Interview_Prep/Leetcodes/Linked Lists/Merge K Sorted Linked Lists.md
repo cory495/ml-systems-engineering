@@ -1,6 +1,12 @@
 ---
 Difficulty: Hard
 Topics: Linked Lists
+Created: 2026-06-01
+Updated: 2026-06-26
+tags:
+  - interview
+  - programming
+Type: Interview
 ---
 # Merge K Sorted Linked Lists
 

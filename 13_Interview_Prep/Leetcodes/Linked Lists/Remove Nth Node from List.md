@@ -1,6 +1,12 @@
 ---
 Difficulty: Medium
 Topics: Linked Lists
+Created: 2026-06-01
+Updated: 2026-06-26
+tags:
+  - interview
+  - programming
+Type: Interview
 ---
 # Remove Nth Node From End of List
 

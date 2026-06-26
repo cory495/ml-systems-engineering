@@ -1,6 +1,12 @@
 ---
 Difficulty: Easy
 Topics: Two Pointers
+Created: 2026-06-01
+Updated: 2026-06-26
+tags:
+  - interview
+  - programming
+Type: Interview
 ---
 # Check if Two String Arrays are Equivalent
 

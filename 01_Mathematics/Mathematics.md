@@ -1,3 +1,11 @@
+---
+Type: Notes
+tags:
+  - mathematics
+Created: 2026-06-01
+Updated: 2026-06-26
+---
+
 # Mathematics
 
 ## Purpose

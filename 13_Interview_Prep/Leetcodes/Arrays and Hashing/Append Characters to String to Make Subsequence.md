@@ -1,6 +1,12 @@
 ---
 Difficulty: Medium
 Topics: Arrays
+Created: 2026-06-01
+Updated: 2026-06-26
+tags:
+  - interview
+  - programming
+Type: Interview
 ---
 
 # Append Characters to String to Make Subsequence
