@@ -4,6 +4,7 @@ Updated: 2026-06-26
 tags:
   - interview
   - programming
+  - dynamic-programming
 Type: Interview
 Topics: 1D Dynamic Programming
 Difficulty: Medium

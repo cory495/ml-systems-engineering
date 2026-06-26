@@ -6,6 +6,7 @@ Updated: 2026-06-26
 tags:
   - interview
   - programming
+  - dynamic-programming
 Type: Interview
 ---
 # House Robber II
