@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13_Interview_Prep/Leetcodes/1D Dynamic Programming/1D Dynamic Programming.md",
+                "file": "13_Interview_Prep/Leetcodes/Intervals/Intervals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1D Dynamic Programming"
+              "title": "Intervals"
             }
           }
         ]
@@ -250,7 +250,21 @@
   },
   "active": "fdd2ccad49b42ea6",
   "lastOpenFiles": [
+    "13_Interview_Prep/Leetcodes/Intervals/Meeting Rooms.md",
+    "13_Interview_Prep/Leetcodes/Intervals/Intervals.md",
+    "13_Interview_Prep/Leetcodes/Greedy Algorithms/Greedy Algorithms.md",
+    "13_Interview_Prep/Leetcodes/Greedy Algorithms/Gas Station.md",
+    "13_Interview_Prep/Leetcodes/Greedy Algorithms/Merge Triplets to Form Targets.md",
+    "13_Interview_Prep/Leetcodes/Greedy Algorithms/Maximum Subarray.md",
+    "13_Interview_Prep/Leetcodes/Greedy Algorithms/Jump Game II.md",
+    "13_Interview_Prep/Leetcodes/Greedy Algorithms/Hand of Straights.md",
     "13_Interview_Prep/Leetcodes/1D Dynamic Programming/1D Dynamic Programming.md",
+    "13_Interview_Prep/Leetcodes/Backtracing/Backtracing.md",
+    "13_Interview_Prep/Leetcodes/Backtracing/Palindrome Partitioning.md",
+    "13_Interview_Prep/Leetcodes/Backtracing/Letter Combinations of a Phone Number.md",
+    "13_Interview_Prep/Leetcodes/Backtracing/Generate Parentheses.md",
+    "13_Interview_Prep/Leetcodes/Backtracing/Combination Sum II.md",
+    "13_Interview_Prep/Leetcodes/Backtracing/Combination Sum.md",
     "13_Interview_Prep/Leetcodes/1D Dynamic Programming/Climbing Stairs.md",
     "13_Interview_Prep/Leetcodes/1D Dynamic Programming/Palindromic Substrings.md",
     "13_Interview_Prep/Leetcodes/1D Dynamic Programming/Min Climbing Stairs.md",
@@ -262,21 +276,7 @@
     "13_Interview_Prep/Leetcodes/Arrays and Hashing/Arrays.md",
     "02_Systems/Data Systems/Designing Data-Intensive Applications.md",
     "Templates/Notes Templates/book.md",
-    "Templates/Notes Templates/core_topic.md",
-    "99_Dashboard/Home.md",
     "Untitled.canvas",
-    "13_Interview_Prep/Interview Questions.md",
-    "12_Projects/Projects.md",
-    "13_Interview_Prep/Leetcodes/Heaps and Priority Queues/Design Twitter.md",
-    "13_Interview_Prep/Leetcodes/Math/Guess Number Higher or Lower.md",
-    "13_Interview_Prep/Leetcodes/Math/Rotate Image.md",
-    "13_Interview_Prep/Leetcodes/LeetCode Patterns.md",
-    "13_Interview_Prep/Leetcodes/Backtracing/Palindrome Partitioning.md",
-    "13_Interview_Prep/Leetcodes/Greedy Algorithms/Hand of Straights.md",
-    "13_Interview_Prep/Leetcodes/Greedy Algorithms/Merge Triplets to Form Targets.md",
-    "13_Interview_Prep/Leetcodes/Greedy Algorithms/Gas Station.md",
-    "13_Interview_Prep/Leetcodes/Trees/Binary Tree Preorder Traversal.md",
-    "13_Interview_Prep/Leetcodes/Trees/Binary Tree Postorder Traversal.md",
     "00_Roadmap/02_Reading_Curriculum",
     "00_Roadmap/01_Semester_Plans",
     "16_Literature_Maps",

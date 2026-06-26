@@ -110,12 +110,12 @@ Examples:
 ## Relevant Problems
 
 ### Easy
-- [[Climbing Stairs]]
-- [[Min Climbing Stairs]]
+- down:: [[Climbing Stairs]]
+- down:: [[Min Climbing Stairs]]
 ### Medium
-- [[House Robbers]]
-- [[House Robber II]]
-- [[Longest Increasing Subsequence]]
-- [[Longest Palindromic Substring]]
-- [[Palindromic Substrings]]
+- down:: [[House Robbers]]
+- down:: [[House Robber II]]
+- down:: [[Longest Increasing Subsequence]]
+- down:: [[Longest Palindromic Substring]]
+- down:: [[Palindromic Substrings]]
 ### Hard

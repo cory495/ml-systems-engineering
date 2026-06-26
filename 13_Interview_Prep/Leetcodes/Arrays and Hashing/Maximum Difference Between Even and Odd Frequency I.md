@@ -6,6 +6,7 @@ Updated: 2026-06-26
 tags:
   - interview
   - programming
+  - arrays
 Type: Interview
 ---
 # Maximum Difference Between Even and Odd Frequency I

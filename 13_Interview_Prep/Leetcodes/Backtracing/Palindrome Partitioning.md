@@ -4,6 +4,7 @@ Updated: 2026-06-26
 tags:
   - interview
   - programming
+  - backtracing
 Type: Interview
 Difficulty: Medium
 Topics: Backtracing
