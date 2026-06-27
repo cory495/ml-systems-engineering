@@ -8,10 +8,17 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "[\"type\":notes]",
+      "query": "tag:#linear-algebra ",
       "color": {
         "a": 1,
         "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#systems",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
       }
     },
     {
@@ -41,6 +48,13 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "[\"type\":notes]",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.19387892496464368,
-  "close": true
+  "scale": 0.0986382074390914,
+  "close": false
 }

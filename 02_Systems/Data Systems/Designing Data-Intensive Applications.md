@@ -1,5 +1,5 @@
 ---
-Type: book
+Type: Notes
 Started: 2026-06-26
 Finished:
 tags:
