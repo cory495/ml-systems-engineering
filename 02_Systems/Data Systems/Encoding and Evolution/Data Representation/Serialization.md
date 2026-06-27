@@ -6,6 +6,7 @@ tags:
   - ddia
   - serialization
   - data-representation
+  - systems
 Type: Notes
 ---
 # Serialization

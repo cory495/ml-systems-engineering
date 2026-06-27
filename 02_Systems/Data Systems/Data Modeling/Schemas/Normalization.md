@@ -5,6 +5,7 @@ tags:
   - systems
   - programming
   - databases
+  - distributed-systems
 Type: Notes
 ---
 # Normalization

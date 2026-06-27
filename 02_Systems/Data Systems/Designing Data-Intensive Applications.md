@@ -1,5 +1,5 @@
 ---
-Type: Notes
+Type: book
 Started: 2026-06-26
 Finished:
 tags:
@@ -7,6 +7,8 @@ tags:
   - databases
   - distributed-systems
 Status: Reading
+Created: 2026-06-26
+Updated: 2026-06-27
 ---
 
 # Designing Data-Intensive Applications
