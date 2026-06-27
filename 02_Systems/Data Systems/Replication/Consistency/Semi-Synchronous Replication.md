@@ -5,7 +5,7 @@ tags:
   - systems
   - distributed-systems
   - consistency
-Type: Concept
+Type: Notes
 ---
 
 # Semi-Synchronous Replication

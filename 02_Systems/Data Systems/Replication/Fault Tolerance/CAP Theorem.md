@@ -5,7 +5,7 @@ tags:
   - systems
   - distributed-systems
   - fault-tolerance
-Type: Concept
+Type: Notes
 ---
 
 # CAP Theorem

@@ -5,7 +5,7 @@ tags:
   - systems
   - distributed-systems
   - replication
-Type: Concept
+Type: Notes
 ---
 
 # Multi-Leader Replication

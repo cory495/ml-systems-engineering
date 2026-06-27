@@ -5,7 +5,7 @@ tags:
   - systems
   - databases
   - replication
-Type: Concept
+Type: Notes
 ---
 
 # Logical Log Replication
