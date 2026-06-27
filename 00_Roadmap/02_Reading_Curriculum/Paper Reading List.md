@@ -6,7 +6,6 @@ tags:
   - roadmap
   - reading
 ---
-
 # Reading Curriculum (2026–2030)
 
 > Goal: Build a research-level understanding of modern AI systems, with emphasis on ML Systems, Multimodal Learning, Sensor Fusion, and Physical AI.
