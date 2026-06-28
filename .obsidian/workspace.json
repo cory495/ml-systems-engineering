@@ -248,8 +248,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3a7c9ec5185534cf",
   "lastOpenFiles": [
+    "01_Mathematics/Analytical Geometry",
     "13_Interview_Prep/Leetcodes/Partition Labels.md",
     "13_Interview_Prep/Leetcodes/Valid Parenthesis String.md",
     "13_Interview_Prep/Leetcodes/Sum of Two Integers.md",
@@ -275,7 +276,6 @@
     "02_Systems/Data Systems/Replication/Leaderless Replication.md",
     "02_Systems/Data Systems/Replication/Replication Mechanics/Logical Log Replication.md",
     "02_Systems/Data Systems/Replication/Replication Mechanics/Write-Ahead Log (WAL).md",
-    "02_Systems/Data Systems/Replication/Replication Mechanics/Statement-Based Replication.md",
     "01_Mathematics/Linear Algebra/Linear Transformations",
     "01_Mathematics/Linear Algebra/Solving Linear Systems",
     "01_Mathematics/Linear Algebra/Matrix Algebra",
