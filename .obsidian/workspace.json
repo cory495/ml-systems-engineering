@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e83ca840244312e5",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "133576557dd15276",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13_Interview_Prep/Leetcodes/Valid Parenthesis String.md",
+                "file": "99_Dashboard/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Valid Parenthesis String"
+              "title": "Home"
             }
           }
         ]
@@ -248,13 +248,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "133576557dd15276",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "13_Interview_Prep/Leetcodes/Partition Labels.md",
     "13_Interview_Prep/Leetcodes/Valid Parenthesis String.md",
+    "13_Interview_Prep/Leetcodes/Sum of Two Integers.md",
+    "13_Interview_Prep/Leetcodes/Maximum Odd Binary Number.md",
+    "13_Interview_Prep/Leetcodes/Maximum Nesting Depth of the Parentheses.md",
+    "13_Interview_Prep/Leetcodes/Lemonade Change.md",
+    "13_Interview_Prep/Leetcodes/Design Hashset.md",
+    "13_Interview_Prep/Leetcodes/Buy Two Chocolates.md",
+    "13_Interview_Prep/Leetcodes/LeetCode Patterns.md",
     "13_Interview_Prep/Leetcodes/Sorting and Searching/Time Based Key-Value Store.md",
     "13_Interview_Prep/Leetcodes/Sorting and Searching/Sort an Array.md",
-    "13_Interview_Prep/Leetcodes/Maximum Odd Binary Number.md",
     "11_Papers/To Read.md",
     "01_Mathematics/Linear Algebra/Linear Algebra.md",
     "10_System_Design/System Design.md",
@@ -270,12 +276,6 @@
     "02_Systems/Data Systems/Replication/Replication Mechanics/Logical Log Replication.md",
     "02_Systems/Data Systems/Replication/Replication Mechanics/Write-Ahead Log (WAL).md",
     "02_Systems/Data Systems/Replication/Replication Mechanics/Statement-Based Replication.md",
-    "02_Systems/Data Systems/Replication/Replication Mechanics/Log Shipping.md",
-    "02_Systems/Data Systems/Replication/Replication Mechanics/Read Replicas.md",
-    "02_Systems/Data Systems/Replication/Replication Mechanics/Replication Lag.md",
-    "02_Systems/Data Systems/Replication/Replication Mechanics/Followers.md",
-    "02_Systems/Data Systems/Storage and Retrieval/Storage Engines/Write Path.md",
-    "02_Systems/Data Systems/Storage and Retrieval/Log Structured Storage/Memtable.md",
     "01_Mathematics/Linear Algebra/Linear Transformations",
     "01_Mathematics/Linear Algebra/Solving Linear Systems",
     "01_Mathematics/Linear Algebra/Matrix Algebra",
